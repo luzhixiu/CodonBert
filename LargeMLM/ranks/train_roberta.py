@@ -25,6 +25,7 @@ tokenizer = PreTrainedTokenizerFast(
 config = RobertaConfig(
     vocab_size = len(tokenizer), # Len gets whole size of vocab (including special tokens)
     torch_dtype = 'float16',
+    max_position_embeddings = 516,
 )
 
 model = RobertaForMaskedLM(config)#.to(device) # Sets model to device
@@ -40,8 +41,9 @@ training_args = TrainingArguments(
     overwrite_output_dir = True,
     num_train_epochs = 1, # Set to 1 for now (training)
     learning_rate = 1e-4, 
-    per_device_train_batch_size=256, # Following Roberta paper
+    per_device_train_batch_size=128, # Following Roberta paper
     save_steps = 1000, # Saves model at every 1000 steps
+    fp16=True,
 )
 
 trainer = Trainer(
@@ -50,7 +52,7 @@ trainer = Trainer(
     data_collator = collator,
     train_dataset = dataset['train'],
     eval_dataset = dataset['validation'],
-    tb_writer = SummaryWriter(logdir = 'Models/logdirs/test')
+    callbacks = [TensorBoardCallback(SummaryWriter(log_dir = 'Models/logdirs/test'))],
 )
 print('Trainer set\nTraining...')
 
