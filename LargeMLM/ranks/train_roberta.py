@@ -1,20 +1,25 @@
 import os
-import torch
+#import torch
 from torch.utils.tensorboard import SummaryWriter
 
 from transformers import Trainer, TrainingArguments, DataCollatorForLanguageModeling
 from transformers import RobertaForMaskedLM, RobertaConfig
 from transformers import BertTokenizerFast, PreTrainedTokenizerFast
+from transformers.integrations import TensorBoardCallback
 from datasets import load_from_disk
 
-device = "cuda:0" if torch.cuda.is_available() else "cpu"
+#device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
 print('Loading dataset...')
 dataset = load_from_disk('SavedDatasets/rank.hgf')
 print('Loaded dataset')
 dataset.set_format('pt') # Should transition dataset to GPU?
 tokenizer = PreTrainedTokenizerFast(
-    tokenizer_file = os.path.join('SavedTokenizers', 'wordpiece_rank.json')
+    tokenizer_file = os.path.join('SavedTokenizers', 'wordpiece_rank.json'),
+    mask_token = '[MASK]',
+    pad_token = '[PAD]',
+    cls_token = '[CLS]',
+    sep_token = '[SEP]',
 )
 
 config = RobertaConfig(
@@ -22,7 +27,7 @@ config = RobertaConfig(
     torch_dtype = 'float16',
 )
 
-model = RobertaForMaskedLM(config).to(device) # Sets model to device
+model = RobertaForMaskedLM(config)#.to(device) # Sets model to device
 
 print('Model Set')
 
