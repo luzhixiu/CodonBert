@@ -10,8 +10,9 @@ from transformers import BertTokenizerFast, PreTrainedTokenizerFast
 from sklearn.model_selection import train_test_split
 
 # Change this for other users:
-owens_desktop = '/Users/owenqueen/Desktop/bioinformatics/codonbert/CodonBert/Data'
-prefix = owens_desktop
+#owens_desktop = '/Users/owenqueen/Desktop/bioinformatics/codonbert/CodonBert/Data'
+#prefix = owens_desktop
+prefix = '/lustre/isaac/scratch/oqueen/CodonBert/Data'
 
 def prep_dataset():
     large_data = os.path.join(prefix, 'fna_txt')
