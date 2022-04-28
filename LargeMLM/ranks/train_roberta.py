@@ -24,8 +24,8 @@ collator = DataCollatorForLanguageModeling(tokenizer = tokenizer, mlm = True, ml
 training_args = TrainingArguments(
     output_dir = 'trained_models/test',
     overwrite_output_dir = True,
-    num_train_epochs = 1,
-    learning_rate = 1e-4,
-    per_device_train_batch_size=256,
-    save_steps = 1000,
+    num_train_epochs = 1, # Set to 1 for now (training)
+    learning_rate = 1e-4, 
+    per_device_train_batch_size=256, # Following Roberta paper
+    save_steps = 1000, # Saves model at every 1000 steps
 )
