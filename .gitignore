@@ -1,3 +1,6 @@
 Data/fnaCollection
+Data/fna_txt
 *.DS_Store
 *__pycache__*
+*.ipynb_checkpoints
+LargeMLM/ranks/SavedDatasets
