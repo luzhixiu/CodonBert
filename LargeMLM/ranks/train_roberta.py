@@ -1,6 +1,8 @@
 import os
 #import torch
 from torch.utils.tensorboard import SummaryWriter
+import math
+import time
 
 from transformers import Trainer, TrainingArguments, DataCollatorForLanguageModeling
 from transformers import RobertaForMaskedLM, RobertaConfig
@@ -19,13 +21,15 @@ tokenizer = PreTrainedTokenizerFast(
     mask_token = '[MASK]',
     pad_token = '[PAD]',
     cls_token = '[CLS]',
-    sep_token = '[SEP]',
 )
 
 config = RobertaConfig(
     vocab_size = len(tokenizer), # Len gets whole size of vocab (including special tokens)
-    torch_dtype = 'float16',
-    max_position_embeddings = 516,
+    max_position_embeddings = 514,
+    hidden_size = 256,
+    num_hidden_layers = 4,
+    num_attention_heads = 4,
+    intermediate_size = 1024,
 )
 
 model = RobertaForMaskedLM(config)#.to(device) # Sets model to device
@@ -41,8 +45,11 @@ training_args = TrainingArguments(
     overwrite_output_dir = True,
     num_train_epochs = 1, # Set to 1 for now (training)
     learning_rate = 1e-4, 
-    per_device_train_batch_size=128, # Following Roberta paper
+    gradient_accumulation_steps = 1,
+    per_device_train_batch_size= 256,
+    per_device_eval_batch_size = 256,
     save_steps = 1000, # Saves model at every 1000 steps
+    logging_steps = 100,
     fp16=True,
 )
 
@@ -52,9 +59,15 @@ trainer = Trainer(
     data_collator = collator,
     train_dataset = dataset['train'],
     eval_dataset = dataset['validation'],
-    callbacks = [TensorBoardCallback(SummaryWriter(log_dir = 'Models/logdirs/test'))],
+    callbacks = [TensorBoardCallback(SummaryWriter(log_dir = 'Models/logdirs/test-'+str(int(time.time()))))],
 )
 print('Trainer set\nTraining...')
 
 trainer.train()
 trainer.save_model('Models/trained_models/test')
+
+
+eval_results = trainer.evaluate()
+print(f"Loss: {eval_results['eval_loss']};  Perplexity: {math.exp(eval_results['eval_loss']):.2f}")
+
+

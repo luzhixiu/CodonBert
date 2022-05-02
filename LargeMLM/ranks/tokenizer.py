@@ -30,16 +30,15 @@ def gen_tokenizer(vocab_json_path = None, batch_iterator = None):
         tokenizer.pre_tokenizer = pre_tokenizers.BertPreTokenizer()
 
         # Will eventually add species-level special tokens:
-        special_tokens = ["[UNK]", "[PAD]", "[CLS]", "[SEP]", "[MASK]"]
+        special_tokens = ["[UNK]", "[PAD]", "[CLS]", "[MASK]"]
         #trainer = trainers.WordPieceTrainer(vocab_size=5000, special_tokens=special_tokens)
         trainer = trainers.WordLevelTrainer(special_tokens = special_tokens)
         tokenizer.train_from_iterator(batch_iterator, trainer = trainer)
 
         # Post processing for BERT: https://huggingface.co/docs/tokenizers/python/latest/pipeline.html
         tokenizer.post_processor = processors.TemplateProcessing(
-            single="[CLS] $A [SEP]",
-            pair="[CLS] $A [SEP] $B:1 [SEP]:1",
-            special_tokens=[("[CLS]", 1), ("[SEP]", 2)],
+            single="[CLS] $A",
+            special_tokens=[("[CLS]", 1)],
         )
 
     else:
