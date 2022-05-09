@@ -31,13 +31,18 @@ seq_list = [os.path.join(seq_path, f) for f in os.listdir(seq_path)]
 
 all_seqs = []
 for f in seq_list:
+    seq_dict = FSBID.findSequenceByID(f)
+    exit()
     seq_tups = [loadSequence(l[1]) for l in FSBID.findSequenceByID(f)]
     all_seqs += seq_tups
 
 print(len(all_seqs))
+print(all_seqs)
 
 amino_seqs = []
 for s in all_seqs:
     amino_seqs.append([codonTable[si] for si in s])
 
-print(len(amino_seqs))
+print(amino_seqs[0])
+
+# Compare to 

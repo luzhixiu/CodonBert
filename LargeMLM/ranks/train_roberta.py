@@ -13,12 +13,12 @@ from datasets import load_from_disk
 #device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
 print('Loading dataset...')
-dataset = load_from_disk('SavedDatasets/rank.hgf')
+dataset = load_from_disk('SavedDatasets/rankC.hgf')
 print('Loaded dataset')
 #dataset.set_format('pt') # Should transition dataset to GPU?
 tokenizer = PreTrainedTokenizerFast(
     model_max_length = 512,
-    tokenizer_file = os.path.join('SavedTokenizers', 'wordpiece_rank.json'),
+    tokenizer_file = os.path.join('SavedTokenizers', 'wordpiece_rankC.json'),
     mask_token = '[MASK]',
     pad_token = '[PAD]',
     cls_token = '[CLS]',
@@ -42,7 +42,7 @@ print('Num. parameters', model.num_parameters())
 collator = DataCollatorForLanguageModeling(tokenizer = tokenizer, mlm = True, mlm_probability=0.15)
 
 training_args = TrainingArguments(
-    output_dir = 'Models/model_checkpoints/test',
+    output_dir = 'Models/model_checkpoints/rankC_test',
     overwrite_output_dir = True,
     num_train_epochs = 10, # Set to 1 for now (training)
     learning_rate = 1e-4, 
@@ -62,12 +62,12 @@ trainer = Trainer(
     train_dataset = dataset['train'],
     eval_dataset = dataset['validation'],
     tokenizer = tokenizer,
-    callbacks = [TensorBoardCallback(SummaryWriter(log_dir = 'Models/logdirs/test-'+str(int(time.time()))))],
+    callbacks = [TensorBoardCallback(SummaryWriter(log_dir = 'Models/logdirs/rankC-test-'+str(int(time.time()))))],
 )
 print('Trainer set\nTraining...')
 
 trainer.train()
-trainer.save_model('Models/trained_models/test')
+trainer.save_model('Models/trained_models/rankC_test')
 
 
 eval_results = trainer.evaluate()

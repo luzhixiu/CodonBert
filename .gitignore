@@ -1,5 +1,6 @@
 Data/fnaCollection
 Data/fna_txt
+Data/fna_rankC
 *.DS_Store
 *__pycache__*
 *.ipynb_checkpoints

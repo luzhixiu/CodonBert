@@ -3,8 +3,8 @@ from tokenizers import decoders, models, normalizers, pre_tokenizers, processors
 from datasets import load_dataset
     
 prefix = '/lustre/isaac/scratch/oqueen/CodonBert/Data'
-large_data = os.path.join(prefix, 'fna_txt')
-all_files = os.listdir(os.path.join(prefix, 'fna_txt'))
+large_data = os.path.join(prefix, 'fna_rankC')
+all_files = os.listdir(os.path.join(prefix, 'fna_rankC'))
 all_files = [os.path.join(large_data, f) for f in all_files]
 
 def train_wordpiece_tokenizer():
@@ -26,7 +26,7 @@ def train_wordpiece_tokenizer():
 
     tokenizer = gen_tokenizer(batch_iterator=splits)
 
-    tokenizer.save(os.path.join('SavedTokenizers', 'wordpiece_rank.json'))
+    tokenizer.save(os.path.join('SavedTokenizers', 'wordpiece_rankC.json'))
 
 
 def gen_tokenizer(vocab_json_path = None, batch_iterator = None):

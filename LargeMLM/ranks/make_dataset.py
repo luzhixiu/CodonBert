@@ -15,8 +15,8 @@ from sklearn.model_selection import train_test_split
 prefix = '/lustre/isaac/scratch/oqueen/CodonBert/Data'
 
 def prep_dataset():
-    large_data = os.path.join(prefix, 'fna_txt')
-    all_files = os.listdir(os.path.join(prefix, 'fna_txt'))
+    large_data = os.path.join(prefix, 'fna_rankC')
+    all_files = os.listdir(os.path.join(prefix, 'fna_rankC'))
     all_files = [os.path.join(large_data, f) for f in all_files] # Transform to abs path
 
     val_pct = 0.1
@@ -58,7 +58,7 @@ def prep_dataset():
     # Load in wordlevel tokenizer:
     tokenizer = PreTrainedTokenizerFast(
         model_max_length = 512,
-        tokenizer_file = os.path.join('SavedTokenizers', 'wordpiece_rank.json'),
+        tokenizer_file = os.path.join('SavedTokenizers', 'wordpiece_rankC.json'),
         mask_token = '[MASK]',
         pad_token = '[PAD]',
         cls_token = '[CLS]',
@@ -91,7 +91,7 @@ def prep_dataset():
 
     #lm_datasets = tokenized_dataset.map(gtexts, batched=True, batch_size = batch_size, num_proc=4)
 
-    tokenized_dataset.save_to_disk('SavedDatasets/rank.hgf')
+    tokenized_dataset.save_to_disk('SavedDatasets/rankC.hgf')
 
 if __name__ == '__main__':
     prep_dataset()

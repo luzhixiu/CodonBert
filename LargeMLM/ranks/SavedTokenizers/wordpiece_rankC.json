@@ -1,0 +1,225 @@
+{
+  "version": "1.0",
+  "truncation": null,
+  "padding": null,
+  "added_tokens": [
+    {
+      "id": 0,
+      "content": "[UNK]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 1,
+      "content": "[PAD]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 2,
+      "content": "[CLS]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 3,
+      "content": "[MASK]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    }
+  ],
+  "normalizer": {
+    "type": "Sequence",
+    "normalizers": [
+      {
+        "type": "NFD"
+      },
+      {
+        "type": "StripAccents"
+      }
+    ]
+  },
+  "pre_tokenizer": {
+    "type": "BertPreTokenizer"
+  },
+  "post_processor": {
+    "type": "TemplateProcessing",
+    "single": [
+      {
+        "SpecialToken": {
+          "id": "[CLS]",
+          "type_id": 0
+        }
+      },
+      {
+        "Sequence": {
+          "id": "A",
+          "type_id": 0
+        }
+      }
+    ],
+    "pair": [
+      {
+        "Sequence": {
+          "id": "A",
+          "type_id": 0
+        }
+      },
+      {
+        "Sequence": {
+          "id": "B",
+          "type_id": 1
+        }
+      }
+    ],
+    "special_tokens": {
+      "[CLS]": {
+        "id": "[CLS]",
+        "ids": [
+          1
+        ],
+        "tokens": [
+          "[CLS]"
+        ]
+      }
+    }
+  },
+  "decoder": null,
+  "model": {
+    "type": "WordLevel",
+    "vocab": {
+      "[UNK]": 0,
+      "[PAD]": 1,
+      "[CLS]": 2,
+      "[MASK]": 3,
+      "1GAA": 4,
+      "1AAA": 5,
+      "1GAT": 6,
+      "1AAT": 7,
+      "2AAG": 8,
+      "1ATT": 9,
+      "1CAA": 10,
+      "1TTG": 11,
+      "1TTT": 12,
+      "2TTA": 13,
+      "2AAC": 14,
+      "1TCT": 15,
+      "1GGT": 16,
+      "1GTT": 17,
+      "1AGA": 18,
+      "2GAC": 19,
+      "1GCT": 20,
+      "2GAG": 21,
+      "1ACT": 22,
+      "1TAT": 23,
+      "2TCA": 24,
+      "1ATG": 25,
+      "2ATA": 26,
+      "2TTC": 27,
+      "2ACA": 28,
+      "1CCA": 29,
+      "3ATC": 30,
+      "2GCA": 31,
+      "3AGT": 32,
+      "2TAC": 33,
+      "4TCC": 34,
+      "1CAT": 35,
+      "3CTA": 36,
+      "2CCT": 37,
+      "2CAG": 38,
+      "3GCC": 39,
+      "4CTT": 40,
+      "3ACC": 41,
+      "2GTA": 42,
+      "2GGA": 43,
+      "3GTC": 44,
+      "4GTG": 45,
+      "5CTG": 46,
+      "1TGG": 47,
+      "3GGC": 48,
+      "5AGC": 49,
+      "2AGG": 50,
+      "6TCG": 51,
+      "4ACG": 52,
+      "1TGT": 53,
+      "2CAC": 54,
+      "3CCC": 55,
+      "4GCG": 56,
+      "4GGG": 57,
+      "3CGT": 58,
+      "6CTC": 59,
+      "4CCG": 60,
+      "2TGC": 61,
+      "4CGA": 62,
+      "5CGC": 63,
+      "6CGG": 64,
+      "2TTG": 65,
+      "1TTA": 66,
+      "3GTG": 67,
+      "4GTC": 68,
+      "3TCC": 69,
+      "4AGT": 70,
+      "2ATC": 71,
+      "3ATA": 72,
+      "2GTC": 73,
+      "3GTA": 74,
+      "4GTA": 75,
+      "1ACA": 76,
+      "2ACT": 77,
+      "4CTG": 78,
+      "5CTT": 79,
+      "2ACC": 80,
+      "3ACA": 81,
+      "1TAC": 82,
+      "2TAT": 83,
+      "3CTT": 84,
+      "4AGC": 85,
+      "2GCC": 86,
+      "5TCC": 87,
+      "4CGC": 88,
+      "3GCA": 89,
+      "5CTA": 90,
+      "1GTC": 91,
+      "2GTT": 92,
+      "5CGA": 93,
+      "1TGC": 94,
+      "2TGT": 95,
+      "1AAC": 96,
+      "2AGT": 97,
+      "1GAC": 98,
+      "2GAT": 99,
+      "5CGG": 100,
+      "4TCA": 101,
+      "2AAT": 102,
+      "3CCG": 103,
+      "5TCG": 104,
+      "1TCA": 105,
+      "4CCC": 106,
+      "6CGC": 107,
+      "4CGG": 108,
+      "2CCA": 109,
+      "1GTA": 110,
+      "2CGT": 111,
+      "6CGA": 112,
+      "1CCT": 113,
+      "3AGG": 114,
+      "2CTT": 115,
+      "2TCT": 116,
+      "3GGG": 117,
+      "4GGC": 118
+    },
+    "unk_token": "[UNK]"
+  }
+}
