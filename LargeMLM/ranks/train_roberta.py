@@ -15,8 +15,9 @@ from datasets import load_from_disk
 print('Loading dataset...')
 dataset = load_from_disk('SavedDatasets/rank.hgf')
 print('Loaded dataset')
-dataset.set_format('pt') # Should transition dataset to GPU?
+#dataset.set_format('pt') # Should transition dataset to GPU?
 tokenizer = PreTrainedTokenizerFast(
+    model_max_length = 512,
     tokenizer_file = os.path.join('SavedTokenizers', 'wordpiece_rank.json'),
     mask_token = '[MASK]',
     pad_token = '[PAD]',
@@ -25,7 +26,7 @@ tokenizer = PreTrainedTokenizerFast(
 
 config = RobertaConfig(
     vocab_size = len(tokenizer), # Len gets whole size of vocab (including special tokens)
-    max_position_embeddings = 514,
+    max_position_embeddings = 1000,
     hidden_size = 256,
     num_hidden_layers = 4,
     num_attention_heads = 4,
@@ -43,13 +44,14 @@ collator = DataCollatorForLanguageModeling(tokenizer = tokenizer, mlm = True, ml
 training_args = TrainingArguments(
     output_dir = 'Models/model_checkpoints/test',
     overwrite_output_dir = True,
-    num_train_epochs = 1, # Set to 1 for now (training)
+    num_train_epochs = 10, # Set to 1 for now (training)
     learning_rate = 1e-4, 
     gradient_accumulation_steps = 1,
     per_device_train_batch_size= 256,
-    per_device_eval_batch_size = 256,
+    per_device_eval_batch_size = 8,
     save_steps = 1000, # Saves model at every 1000 steps
     logging_steps = 100,
+    evaluation_strategy = 'no',
     fp16=True,
 )
 
@@ -59,6 +61,7 @@ trainer = Trainer(
     data_collator = collator,
     train_dataset = dataset['train'],
     eval_dataset = dataset['validation'],
+    tokenizer = tokenizer,
     callbacks = [TensorBoardCallback(SummaryWriter(log_dir = 'Models/logdirs/test-'+str(int(time.time()))))],
 )
 print('Trainer set\nTraining...')

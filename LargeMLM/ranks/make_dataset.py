@@ -56,36 +56,42 @@ def prep_dataset():
     print(type(dataset))
 
     # Load in wordlevel tokenizer:
-    tokenizer = PreTrainedTokenizerFast(tokenizer_file = os.path.join('SavedTokenizers', 'wordpiece_rank.json'))
+    tokenizer = PreTrainedTokenizerFast(
+        model_max_length = 512,
+        tokenizer_file = os.path.join('SavedTokenizers', 'wordpiece_rank.json'),
+        mask_token = '[MASK]',
+        pad_token = '[PAD]',
+        cls_token = '[CLS]',
+    )
 
     def tokenize_function(examples):
-        return tokenizer(examples['text'])
+        return tokenizer(examples['text'], truncation=True, padding=True)
 
     tokenized_dataset = dataset.map(tokenize_function, batched = True, num_proc = 4, remove_columns=['text'])
 
     print(tokenized_dataset)
     print(tokenized_dataset['train'][0])
 
-    def group_texts(examples, block_size = 128):
-        # Concatenate all texts.
-        concatenated_examples = {k: sum(examples[k], []) for k in examples.keys()}
-        total_length = len(concatenated_examples[list(examples.keys())[0]])
-        # We drop the small remainder, we could add padding if the model supported it instead of this drop, you can
-            # customize this part to your needs.
-        total_length = (total_length // block_size) * block_size
-        # Split by chunks of max_len.
-        result = {
-            k: [t[i : i + block_size] for i in range(0, total_length, block_size)]
-            for k, t in concatenated_examples.items()
-        }
-        result["labels"] = result["input_ids"].copy()
-        return result
+    # def group_texts(examples, block_size = 128):
+    #     # Concatenate all texts.
+    #     concatenated_examples = {k: sum(examples[k], []) for k in examples.keys()}
+    #     total_length = len(concatenated_examples[list(examples.keys())[0]])
+    #     # We drop the small remainder, we could add padding if the model supported it instead of this drop, you can
+    #         # customize this part to your needs.
+    #     total_length = (total_length // block_size) * block_size
+    #     # Split by chunks of max_len.
+    #     result = {
+    #         k: [t[i : i + block_size] for i in range(0, total_length, block_size)]
+    #         for k, t in concatenated_examples.items()
+    #     }
+    #     result["labels"] = result["input_ids"].copy()
+    #     return result
 
-    gtexts = partial(group_texts, block_size = seq_len)
+    #gtexts = partial(group_texts, block_size = seq_len)
 
-    lm_datasets = tokenized_dataset.map(gtexts, batched=True, batch_size = batch_size, num_proc=4)
+    #lm_datasets = tokenized_dataset.map(gtexts, batched=True, batch_size = batch_size, num_proc=4)
 
-    lm_datasets.save_to_disk('SavedDatasets/rank.hgf')
+    tokenized_dataset.save_to_disk('SavedDatasets/rank.hgf')
 
 if __name__ == '__main__':
     prep_dataset()

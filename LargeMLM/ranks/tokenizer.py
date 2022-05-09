@@ -2,6 +2,10 @@ import os
 from tokenizers import decoders, models, normalizers, pre_tokenizers, processors, trainers, Tokenizer
 from datasets import load_dataset
     
+prefix = '/lustre/isaac/scratch/oqueen/CodonBert/Data'
+large_data = os.path.join(prefix, 'fna_txt')
+all_files = os.listdir(os.path.join(prefix, 'fna_txt'))
+all_files = [os.path.join(large_data, f) for f in all_files]
 
 def train_wordpiece_tokenizer():
 
@@ -9,13 +13,20 @@ def train_wordpiece_tokenizer():
     owens_desktop = '/Users/owenqueen/Desktop/bioinformatics/codonbert/CodonBert/Data'
     prefix = owens_desktop
 
+    splits = []
+    for f in all_files:
+        L = open(f, 'r').readlines()
+        splits += L
+
+    print(len(splits))
+
     # Make trivial length of strings with all numbers:
-    batch_iterator = [str(i) + ' ' + str(i+1) for i in range(1, 6)]
-    print(batch_iterator)
+    #batch_iterator = [str(i) + ' ' + str(i+1) for i in range(1, 6)]
+    #print(batch_iterator)
 
-    tokenizer = gen_tokenizer(batch_iterator=batch_iterator)
+    tokenizer = gen_tokenizer(batch_iterator=splits)
 
-    tokenizer.save(os.path.join('SavedTokenizers', 'wordpiece_codon.json'))
+    tokenizer.save(os.path.join('SavedTokenizers', 'wordpiece_rank.json'))
 
 
 def gen_tokenizer(vocab_json_path = None, batch_iterator = None):
