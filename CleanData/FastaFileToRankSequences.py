@@ -9,6 +9,25 @@ import scipy.stats as ss
 import CodonLibraries as CL
 inputFile="../Data/s288c.fasta"
 
+codonTable = {
+'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
+'ACA':'T', 'ACC':'T', 'ACG':'T', 'ACT':'T',
+'AAC':'N', 'AAT':'N', 'AAA':'K', 'AAG':'K',
+'AGC':'S', 'AGT':'S', 'AGA':'R', 'AGG':'R',
+'CTA':'L', 'CTC':'L', 'CTG':'L', 'CTT':'L',
+'CCA':'P', 'CCC':'P', 'CCG':'P', 'CCT':'P',
+'CAC':'H', 'CAT':'H', 'CAA':'Q', 'CAG':'Q',
+'CGA':'R', 'CGC':'R', 'CGG':'R', 'CGT':'R',
+'GTA':'V', 'GTC':'V', 'GTG':'V', 'GTT':'V',
+'GCA':'A', 'GCC':'A', 'GCG':'A', 'GCT':'A',
+'GAC':'D', 'GAT':'D', 'GAA':'E', 'GAG':'E',
+'GGA':'G', 'GGC':'G', 'GGG':'G', 'GGT':'G',
+'TCA':'S', 'TCC':'S', 'TCG':'S', 'TCT':'S',
+'TTC':'F', 'TTT':'F', 'TTA':'L', 'TTG':'L',
+'TAC':'Y', 'TAT':'Y', 'TAA':'_', 'TAG':'_',
+'TGC':'C', 'TGT':'C', 'TGA':'_', 'TGG':'W',
+}
+
 def process(inputF,outputF,tag="", write = False):
     geneDict=FSBID.findSequenceByID(inputF)
     keyList=[]
@@ -24,7 +43,7 @@ def process(inputF,outputF,tag="", write = False):
     print(cnt," sequences are not length of three")
     rscu=RSCU(seqList)
     rscu_rank=convertRSCUtoRanks(rscu)
-    sentenceList = []
+    sentenceList = ['ranks, amino']
     for seq in seqList:
         codonList=CL.loadSequence(seq)
         #remove the first and last five codons:
@@ -35,15 +54,25 @@ def process(inputF,outputF,tag="", write = False):
         try:
             codonRankList=[rscu_rank[codon] for codon in codonList]
             sentence=""
-            i = 0
+
             for rank in codonRankList:
-                sentence+=str(rank) + codonList[i] +" "
-                i += 1
+                sentence += str(rank) + " "
+
+            sentence += ', '
+
+            for i in range(len(codonList)):
+                add = " " if i < len(codonList) - 1 else ""
+                sentence += codonTable[codonList[i]] + add
+
+            sentence += ','
+
+
             sentenceList.append(sentence)
         except :
             print("one error on ",seq)
 
-    #print(sentenceList[:2])
+    # print(sentenceList[:2])
+    # exit()
 
     if write:
         output_file = open(outputF, 'w')

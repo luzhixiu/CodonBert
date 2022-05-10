@@ -5,3 +5,4 @@ Data/fna_rankC
 *__pycache__*
 *.ipynb_checkpoints
 LargeMLM/ranks/SavedDatasets
+LargeMLM/ranks_w_amino/SavedDatasets

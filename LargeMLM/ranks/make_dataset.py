@@ -22,7 +22,7 @@ def prep_dataset():
     val_pct = 0.1
     test_pct = 0.2
     batch_size = 256 # from RoBERTa
-    seq_len = 512 # from RoBERTa
+    seq_len = 256 # from RoBERTa
 
     # Choose val_pct of all_files for validation data:
     # val_sample = random.sample(range(len(all_files)), k = int(len(all_files) * val_pct))
@@ -72,26 +72,26 @@ def prep_dataset():
     print(tokenized_dataset)
     print(tokenized_dataset['train'][0])
 
-    # def group_texts(examples, block_size = 128):
-    #     # Concatenate all texts.
-    #     concatenated_examples = {k: sum(examples[k], []) for k in examples.keys()}
-    #     total_length = len(concatenated_examples[list(examples.keys())[0]])
-    #     # We drop the small remainder, we could add padding if the model supported it instead of this drop, you can
-    #         # customize this part to your needs.
-    #     total_length = (total_length // block_size) * block_size
-    #     # Split by chunks of max_len.
-    #     result = {
-    #         k: [t[i : i + block_size] for i in range(0, total_length, block_size)]
-    #         for k, t in concatenated_examples.items()
-    #     }
-    #     result["labels"] = result["input_ids"].copy()
-    #     return result
+    def group_texts(examples, block_size = 128):
+        # Concatenate all texts.
+        concatenated_examples = {k: sum(examples[k], []) for k in examples.keys()}
+        total_length = len(concatenated_examples[list(examples.keys())[0]])
+        # We drop the small remainder, we could add padding if the model supported it instead of this drop, you can
+            # customize this part to your needs.
+        total_length = (total_length // block_size) * block_size
+        # Split by chunks of max_len.
+        result = {
+            k: [t[i : i + block_size] for i in range(0, total_length, block_size)]
+            for k, t in concatenated_examples.items()
+        }
+        result["labels"] = result["input_ids"].copy()
+        return result
 
-    #gtexts = partial(group_texts, block_size = seq_len)
+    gtexts = partial(group_texts, block_size = seq_len)
 
-    #lm_datasets = tokenized_dataset.map(gtexts, batched=True, batch_size = batch_size, num_proc=4)
+    lm_datasets = tokenized_dataset.map(gtexts, batched=True, batch_size = batch_size, num_proc=4)
 
-    tokenized_dataset.save_to_disk('SavedDatasets/rankC.hgf')
+    lm_datasets.save_to_disk('SavedDatasets/rank.hgf')
 
 if __name__ == '__main__':
     prep_dataset()
