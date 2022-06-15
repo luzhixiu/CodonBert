@@ -92,4 +92,4 @@ def processDir(inputDir):
         outputF=fpath+".CodonRank.txt"
         process(fpath,outputF)
 
-processDir("../Data/fnaCollection")
+processDir("../Data/")
