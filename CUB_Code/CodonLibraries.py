@@ -25,3 +25,5 @@ def loadSequence(sequence):
     codonList=actualCodonList
    # print "codon readed successful, the number of codon in this sequence is %d"%(len(codonList))
     return codonList
+
+
