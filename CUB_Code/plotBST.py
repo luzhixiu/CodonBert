@@ -60,7 +60,7 @@ def createBSTfromMultipleRSCUList(rscuLists):
 # tarzan=createBSTfromMultipleRSCUList(rscuLists)
 # print(tarzan.left.right.val)
 
-def visualize_tree(tree):
+def visualize_tree(tree,outputFile="outputName"):
     def add_nodes_edges(tree, dot=None):
         # Create Digraph object
         if dot is None:
@@ -84,5 +84,5 @@ def visualize_tree(tree):
 
     # Visualize the graph
     # display(dot)
-    dot.render(directory='doctest-output', view=True)
+    dot.render(directory=outputFile, view=True)
     return dot

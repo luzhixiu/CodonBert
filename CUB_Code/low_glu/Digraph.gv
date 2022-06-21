@@ -1,0 +1,1973 @@
+digraph {
+	<plotBST.TreeNode object at 0x7fbe1e1112b0> [label=0]
+	<plotBST.TreeNode object at 0x7fbdc63663c8> [label=383 color=red]
+	<plotBST.TreeNode object at 0x7fbe1e1112b0> -> <plotBST.TreeNode object at 0x7fbdc63663c8>
+	<plotBST.TreeNode object at 0x7fbdc63723c8> [label=255 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63663c8> -> <plotBST.TreeNode object at 0x7fbdc63723c8>
+	<plotBST.TreeNode object at 0x7fbdc6444ba8> [label=156 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63723c8> -> <plotBST.TreeNode object at 0x7fbdc6444ba8>
+	<plotBST.TreeNode object at 0x7fbdc6366e48> [label=92 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444ba8> -> <plotBST.TreeNode object at 0x7fbdc6366e48>
+	<plotBST.TreeNode object at 0x7fbdc636ff60> [label=56 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366e48> -> <plotBST.TreeNode object at 0x7fbdc636ff60>
+	<plotBST.TreeNode object at 0x7fbdc6441da0> [label=29 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636ff60> -> <plotBST.TreeNode object at 0x7fbdc6441da0>
+	<plotBST.TreeNode object at 0x7fbdc6366e10> [label=15 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441da0> -> <plotBST.TreeNode object at 0x7fbdc6366e10>
+	<plotBST.TreeNode object at 0x7fbdc6369438> [label=10 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366e10> -> <plotBST.TreeNode object at 0x7fbdc6369438>
+	<plotBST.TreeNode object at 0x7fbdc6372390> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369438> -> <plotBST.TreeNode object at 0x7fbdc6372390>
+	<plotBST.TreeNode object at 0x7fbdc636f438> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372390> -> <plotBST.TreeNode object at 0x7fbdc636f438>
+	<plotBST.TreeNode object at 0x7fbdc6372438> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372390> -> <plotBST.TreeNode object at 0x7fbdc6372438>
+	<plotBST.TreeNode object at 0x7fbdc6369a58> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369438> -> <plotBST.TreeNode object at 0x7fbdc6369a58>
+	<plotBST.TreeNode object at 0x7fbdc63698d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369a58> -> <plotBST.TreeNode object at 0x7fbdc63698d0>
+	<plotBST.TreeNode object at 0x7fbdc63622e8> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366e10> -> <plotBST.TreeNode object at 0x7fbdc63622e8>
+	<plotBST.TreeNode object at 0x7fbdc635fc88> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63622e8> -> <plotBST.TreeNode object at 0x7fbdc635fc88>
+	<plotBST.TreeNode object at 0x7fbdc635fcc0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635fc88> -> <plotBST.TreeNode object at 0x7fbdc635fcc0>
+	<plotBST.TreeNode object at 0x7fbdc6369ba8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63622e8> -> <plotBST.TreeNode object at 0x7fbdc6369ba8>
+	<plotBST.TreeNode object at 0x7fbdc6369be0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369ba8> -> <plotBST.TreeNode object at 0x7fbdc6369be0>
+	<plotBST.TreeNode object at 0x7fbdc6441fd0> [label=13 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441da0> -> <plotBST.TreeNode object at 0x7fbdc6441fd0>
+	<plotBST.TreeNode object at 0x7fbdc635d048> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441fd0> -> <plotBST.TreeNode object at 0x7fbdc635d048>
+	<plotBST.TreeNode object at 0x7fbdc636ffd0> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d048> -> <plotBST.TreeNode object at 0x7fbdc636ffd0>
+	<plotBST.TreeNode object at 0x7fbdc6366f60> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636ffd0> -> <plotBST.TreeNode object at 0x7fbdc6366f60>
+	<plotBST.TreeNode object at 0x7fbdc6372048> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636ffd0> -> <plotBST.TreeNode object at 0x7fbdc6372048>
+	<plotBST.TreeNode object at 0x7fbdc63479e8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d048> -> <plotBST.TreeNode object at 0x7fbdc63479e8>
+	<plotBST.TreeNode object at 0x7fbdc6347a20> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63479e8> -> <plotBST.TreeNode object at 0x7fbdc6347a20>
+	<plotBST.TreeNode object at 0x7fbdc636bf60> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441fd0> -> <plotBST.TreeNode object at 0x7fbdc636bf60>
+	<plotBST.TreeNode object at 0x7fbdc636bf98> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636bf60> -> <plotBST.TreeNode object at 0x7fbdc636bf98>
+	<plotBST.TreeNode object at 0x7fbdc6444d30> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636bf98> -> <plotBST.TreeNode object at 0x7fbdc6444d30>
+	<plotBST.TreeNode object at 0x7fbdc636f048> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636bf98> -> <plotBST.TreeNode object at 0x7fbdc636f048>
+	<plotBST.TreeNode object at 0x7fbdc64696d8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636bf60> -> <plotBST.TreeNode object at 0x7fbdc64696d8>
+	<plotBST.TreeNode object at 0x7fbdc64690f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64696d8> -> <plotBST.TreeNode object at 0x7fbdc64690f0>
+	<plotBST.TreeNode object at 0x7fbdc64566a0> [label=24 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636ff60> -> <plotBST.TreeNode object at 0x7fbdc64566a0>
+	<plotBST.TreeNode object at 0x7fbdc64677b8> [label=15 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64566a0> -> <plotBST.TreeNode object at 0x7fbdc64677b8>
+	<plotBST.TreeNode object at 0x7fbdc6467c18> [label=8 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64677b8> -> <plotBST.TreeNode object at 0x7fbdc6467c18>
+	<plotBST.TreeNode object at 0x7fbdc64677f0> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467c18> -> <plotBST.TreeNode object at 0x7fbdc64677f0>
+	<plotBST.TreeNode object at 0x7fbdc6455e48> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64677f0> -> <plotBST.TreeNode object at 0x7fbdc6455e48>
+	<plotBST.TreeNode object at 0x7fbdc645e0f0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6467c18> -> <plotBST.TreeNode object at 0x7fbdc645e0f0>
+	<plotBST.TreeNode object at 0x7fbdc636f898> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e0f0> -> <plotBST.TreeNode object at 0x7fbdc636f898>
+	<plotBST.TreeNode object at 0x7fbdc6366eb8> [label=7 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64677b8> -> <plotBST.TreeNode object at 0x7fbdc6366eb8>
+	<plotBST.TreeNode object at 0x7fbdc636f278> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366eb8> -> <plotBST.TreeNode object at 0x7fbdc636f278>
+	<plotBST.TreeNode object at 0x7fbdc636b400> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f278> -> <plotBST.TreeNode object at 0x7fbdc636b400>
+	<plotBST.TreeNode object at 0x7fbdc636f2b0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f278> -> <plotBST.TreeNode object at 0x7fbdc636f2b0>
+	<plotBST.TreeNode object at 0x7fbdc6350898> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366eb8> -> <plotBST.TreeNode object at 0x7fbdc6350898>
+	<plotBST.TreeNode object at 0x7fbdc6366ba8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350898> -> <plotBST.TreeNode object at 0x7fbdc6366ba8>
+	<plotBST.TreeNode object at 0x7fbdc6369a20> [label=6 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64566a0> -> <plotBST.TreeNode object at 0x7fbdc6369a20>
+	<plotBST.TreeNode object at 0x7fbdc636f940> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369a20> -> <plotBST.TreeNode object at 0x7fbdc636f940>
+	<plotBST.TreeNode object at 0x7fbdc636f908> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f940> -> <plotBST.TreeNode object at 0x7fbdc636f908>
+	<plotBST.TreeNode object at 0x7fbdc636f978> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f908> -> <plotBST.TreeNode object at 0x7fbdc636f978>
+	<plotBST.TreeNode object at 0x7fbdc6366da0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f940> -> <plotBST.TreeNode object at 0x7fbdc6366da0>
+	<plotBST.TreeNode object at 0x7fbdc63477b8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369a20> -> <plotBST.TreeNode object at 0x7fbdc63477b8>
+	<plotBST.TreeNode object at 0x7fbdc635f630> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63477b8> -> <plotBST.TreeNode object at 0x7fbdc635f630>
+	<plotBST.TreeNode object at 0x7fbdc635fbe0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f630> -> <plotBST.TreeNode object at 0x7fbdc635fbe0>
+	<plotBST.TreeNode object at 0x7fbdc64551d0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63477b8> -> <plotBST.TreeNode object at 0x7fbdc64551d0>
+	<plotBST.TreeNode object at 0x7fbdc6369cf8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64551d0> -> <plotBST.TreeNode object at 0x7fbdc6369cf8>
+	<plotBST.TreeNode object at 0x7fbdcee6a278> [label=35 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366e48> -> <plotBST.TreeNode object at 0x7fbdcee6a278>
+	<plotBST.TreeNode object at 0x7fbdc6369630> [label=17 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6a278> -> <plotBST.TreeNode object at 0x7fbdc6369630>
+	<plotBST.TreeNode object at 0x7fbdc636bda0> [label=11 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369630> -> <plotBST.TreeNode object at 0x7fbdc636bda0>
+	<plotBST.TreeNode object at 0x7fbdc636bc18> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636bda0> -> <plotBST.TreeNode object at 0x7fbdc636bc18>
+	<plotBST.TreeNode object at 0x7fbdc636fda0> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636bc18> -> <plotBST.TreeNode object at 0x7fbdc636fda0>
+	<plotBST.TreeNode object at 0x7fbdc636b2b0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636fda0> -> <plotBST.TreeNode object at 0x7fbdc636b2b0>
+	<plotBST.TreeNode object at 0x7fbdc636fdd8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636fda0> -> <plotBST.TreeNode object at 0x7fbdc636fdd8>
+	<plotBST.TreeNode object at 0x7fbdc636b550> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636bc18> -> <plotBST.TreeNode object at 0x7fbdc636b550>
+	<plotBST.TreeNode object at 0x7fbdc6372e48> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b550> -> <plotBST.TreeNode object at 0x7fbdc6372e48>
+	<plotBST.TreeNode object at 0x7fbdc6457c18> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b550> -> <plotBST.TreeNode object at 0x7fbdc6457c18>
+	<plotBST.TreeNode object at 0x7fbdcee6a6d8> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636bda0> -> <plotBST.TreeNode object at 0x7fbdcee6a6d8>
+	<plotBST.TreeNode object at 0x7fbdc636f4e0> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6a6d8> -> <plotBST.TreeNode object at 0x7fbdc636f4e0>
+	<plotBST.TreeNode object at 0x7fbdc6350358> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f4e0> -> <plotBST.TreeNode object at 0x7fbdc6350358>
+	<plotBST.TreeNode object at 0x7fbdc636f400> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f4e0> -> <plotBST.TreeNode object at 0x7fbdc636f400>
+	<plotBST.TreeNode object at 0x7fbdc635d400> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6a6d8> -> <plotBST.TreeNode object at 0x7fbdc635d400>
+	<plotBST.TreeNode object at 0x7fbdc63660b8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d400> -> <plotBST.TreeNode object at 0x7fbdc63660b8>
+	<plotBST.TreeNode object at 0x7fbdc6455be0> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369630> -> <plotBST.TreeNode object at 0x7fbdc6455be0>
+	<plotBST.TreeNode object at 0x7fbdc6366c18> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455be0> -> <plotBST.TreeNode object at 0x7fbdc6366c18>
+	<plotBST.TreeNode object at 0x7fbdcee6a358> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366c18> -> <plotBST.TreeNode object at 0x7fbdcee6a358>
+	<plotBST.TreeNode object at 0x7fbdc6369780> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6a358> -> <plotBST.TreeNode object at 0x7fbdc6369780>
+	<plotBST.TreeNode object at 0x7fbdc6369710> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366c18> -> <plotBST.TreeNode object at 0x7fbdc6369710>
+	<plotBST.TreeNode object at 0x7fbdc636bfd0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369710> -> <plotBST.TreeNode object at 0x7fbdc636bfd0>
+	<plotBST.TreeNode object at 0x7fbdc6369908> [label=16 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6a278> -> <plotBST.TreeNode object at 0x7fbdc6369908>
+	<plotBST.TreeNode object at 0x7fbdc6444898> [label=12 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369908> -> <plotBST.TreeNode object at 0x7fbdc6444898>
+	<plotBST.TreeNode object at 0x7fbdc6350ac8> [label=8 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444898> -> <plotBST.TreeNode object at 0x7fbdc6350ac8>
+	<plotBST.TreeNode object at 0x7fbdc6372940> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350ac8> -> <plotBST.TreeNode object at 0x7fbdc6372940>
+	<plotBST.TreeNode object at 0x7fbdc6372ac8> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372940> -> <plotBST.TreeNode object at 0x7fbdc6372ac8>
+	<plotBST.TreeNode object at 0x7fbdc635f0f0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350ac8> -> <plotBST.TreeNode object at 0x7fbdc635f0f0>
+	<plotBST.TreeNode object at 0x7fbdc636f3c8> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f0f0> -> <plotBST.TreeNode object at 0x7fbdc636f3c8>
+	<plotBST.TreeNode object at 0x7fbdc635dcf8> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444898> -> <plotBST.TreeNode object at 0x7fbdc635dcf8>
+	<plotBST.TreeNode object at 0x7fbdc6372ba8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635dcf8> -> <plotBST.TreeNode object at 0x7fbdc6372ba8>
+	<plotBST.TreeNode object at 0x7fbdc6372be0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372ba8> -> <plotBST.TreeNode object at 0x7fbdc6372be0>
+	<plotBST.TreeNode object at 0x7fbdc6362b00> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635dcf8> -> <plotBST.TreeNode object at 0x7fbdc6362b00>
+	<plotBST.TreeNode object at 0x7fbddfc7e048> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362b00> -> <plotBST.TreeNode object at 0x7fbddfc7e048>
+	<plotBST.TreeNode object at 0x7fbdc6350b38> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369908> -> <plotBST.TreeNode object at 0x7fbdc6350b38>
+	<plotBST.TreeNode object at 0x7fbdc6350470> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350b38> -> <plotBST.TreeNode object at 0x7fbdc6350470>
+	<plotBST.TreeNode object at 0x7fbdc636b0f0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350470> -> <plotBST.TreeNode object at 0x7fbdc636b0f0>
+	<plotBST.TreeNode object at 0x7fbdc6362b70> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b0f0> -> <plotBST.TreeNode object at 0x7fbdc6362b70>
+	<plotBST.TreeNode object at 0x7fbdc636b0b8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b0f0> -> <plotBST.TreeNode object at 0x7fbdc636b0b8>
+	<plotBST.TreeNode object at 0x7fbdc6362780> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350470> -> <plotBST.TreeNode object at 0x7fbdc6362780>
+	<plotBST.TreeNode object at 0x7fbdc63627b8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362780> -> <plotBST.TreeNode object at 0x7fbdc63627b8>
+	<plotBST.TreeNode object at 0x7fbdc6350a58> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350b38> -> <plotBST.TreeNode object at 0x7fbdc6350a58>
+	<plotBST.TreeNode object at 0x7fbdc6350320> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350a58> -> <plotBST.TreeNode object at 0x7fbdc6350320>
+	<plotBST.TreeNode object at 0x7fbdc6350e48> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350320> -> <plotBST.TreeNode object at 0x7fbdc6350e48>
+	<plotBST.TreeNode object at 0x7fbdc6457898> [label=53 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444ba8> -> <plotBST.TreeNode object at 0x7fbdc6457898>
+	<plotBST.TreeNode object at 0x7fbdc635d1d0> [label=27 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457898> -> <plotBST.TreeNode object at 0x7fbdc635d1d0>
+	<plotBST.TreeNode object at 0x7fbdc6441c88> [label=12 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d1d0> -> <plotBST.TreeNode object at 0x7fbdc6441c88>
+	<plotBST.TreeNode object at 0x7fbdc6350160> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441c88> -> <plotBST.TreeNode object at 0x7fbdc6350160>
+	<plotBST.TreeNode object at 0x7fbdc6350dd8> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350160> -> <plotBST.TreeNode object at 0x7fbdc6350dd8>
+	<plotBST.TreeNode object at 0x7fbdc6504cf8> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350dd8> -> <plotBST.TreeNode object at 0x7fbdc6504cf8>
+	<plotBST.TreeNode object at 0x7fbdc636b6a0> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6504cf8> -> <plotBST.TreeNode object at 0x7fbdc636b6a0>
+	<plotBST.TreeNode object at 0x7fbdc6350d30> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6504cf8> -> <plotBST.TreeNode object at 0x7fbdc6350d30>
+	<plotBST.TreeNode object at 0x7fbdc6372da0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350dd8> -> <plotBST.TreeNode object at 0x7fbdc6372da0>
+	<plotBST.TreeNode object at 0x7fbdc6372dd8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372da0> -> <plotBST.TreeNode object at 0x7fbdc6372dd8>
+	<plotBST.TreeNode object at 0x7fbdc63667b8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350160> -> <plotBST.TreeNode object at 0x7fbdc63667b8>
+	<plotBST.TreeNode object at 0x7fbdc636be48> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63667b8> -> <plotBST.TreeNode object at 0x7fbdc636be48>
+	<plotBST.TreeNode object at 0x7fbdc636b390> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636be48> -> <plotBST.TreeNode object at 0x7fbdc636b390>
+	<plotBST.TreeNode object at 0x7fbdc6366198> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63667b8> -> <plotBST.TreeNode object at 0x7fbdc6366198>
+	<plotBST.TreeNode object at 0x7fbdc63661d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366198> -> <plotBST.TreeNode object at 0x7fbdc63661d0>
+	<plotBST.TreeNode object at 0x7fbdc6457860> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441c88> -> <plotBST.TreeNode object at 0x7fbdc6457860>
+	<plotBST.TreeNode object at 0x7fbdc63507b8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457860> -> <plotBST.TreeNode object at 0x7fbdc63507b8>
+	<plotBST.TreeNode object at 0x7fbdc6469518> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63507b8> -> <plotBST.TreeNode object at 0x7fbdc6469518>
+	<plotBST.TreeNode object at 0x7fbdc6369828> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469518> -> <plotBST.TreeNode object at 0x7fbdc6369828>
+	<plotBST.TreeNode object at 0x7fbdc63692e8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63507b8> -> <plotBST.TreeNode object at 0x7fbdc63692e8>
+	<plotBST.TreeNode object at 0x7fbdc6369320> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63692e8> -> <plotBST.TreeNode object at 0x7fbdc6369320>
+	<plotBST.TreeNode object at 0x7fbdc6467748> [label=11 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d1d0> -> <plotBST.TreeNode object at 0x7fbdc6467748>
+	<plotBST.TreeNode object at 0x7fbdc6467940> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467748> -> <plotBST.TreeNode object at 0x7fbdc6467940>
+	<plotBST.TreeNode object at 0x7fbdc6372710> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467940> -> <plotBST.TreeNode object at 0x7fbdc6372710>
+	<plotBST.TreeNode object at 0x7fbdc63726a0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372710> -> <plotBST.TreeNode object at 0x7fbdc63726a0>
+	<plotBST.TreeNode object at 0x7fbdc63726d8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63726a0> -> <plotBST.TreeNode object at 0x7fbdc63726d8>
+	<plotBST.TreeNode object at 0x7fbdc6372080> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372710> -> <plotBST.TreeNode object at 0x7fbdc6372080>
+	<plotBST.TreeNode object at 0x7fbdc6455b38> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372080> -> <plotBST.TreeNode object at 0x7fbdc6455b38>
+	<plotBST.TreeNode object at 0x7fbdc63720b8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372080> -> <plotBST.TreeNode object at 0x7fbdc63720b8>
+	<plotBST.TreeNode object at 0x7fbdc63628d0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6467940> -> <plotBST.TreeNode object at 0x7fbdc63628d0>
+	<plotBST.TreeNode object at 0x7fbdc6350e80> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63628d0> -> <plotBST.TreeNode object at 0x7fbdc6350e80>
+	<plotBST.TreeNode object at 0x7fbdc6350eb8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350e80> -> <plotBST.TreeNode object at 0x7fbdc6350eb8>
+	<plotBST.TreeNode object at 0x7fbdc63620f0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63628d0> -> <plotBST.TreeNode object at 0x7fbdc63620f0>
+	<plotBST.TreeNode object at 0x7fbdc6372eb8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63620f0> -> <plotBST.TreeNode object at 0x7fbdc6372eb8>
+	<plotBST.TreeNode object at 0x7fbdc6347c88> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6467748> -> <plotBST.TreeNode object at 0x7fbdc6347c88>
+	<plotBST.TreeNode object at 0x7fbdc64569b0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347c88> -> <plotBST.TreeNode object at 0x7fbdc64569b0>
+	<plotBST.TreeNode object at 0x7fbdc6456a20> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64569b0> -> <plotBST.TreeNode object at 0x7fbdc6456a20>
+	<plotBST.TreeNode object at 0x7fbdc6350c18> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456a20> -> <plotBST.TreeNode object at 0x7fbdc6350c18>
+	<plotBST.TreeNode object at 0x7fbdc64579b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456a20> -> <plotBST.TreeNode object at 0x7fbdc64579b0>
+	<plotBST.TreeNode object at 0x7fbdc6347a90> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347c88> -> <plotBST.TreeNode object at 0x7fbdc6347a90>
+	<plotBST.TreeNode object at 0x7fbdc6347ac8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347a90> -> <plotBST.TreeNode object at 0x7fbdc6347ac8>
+	<plotBST.TreeNode object at 0x7fbdc6347be0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347ac8> -> <plotBST.TreeNode object at 0x7fbdc6347be0>
+	<plotBST.TreeNode object at 0x7fbdc6457dd8> [label=23 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457898> -> <plotBST.TreeNode object at 0x7fbdc6457dd8>
+	<plotBST.TreeNode object at 0x7fbdc6347e80> [label=12 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457dd8> -> <plotBST.TreeNode object at 0x7fbdc6347e80>
+	<plotBST.TreeNode object at 0x7fbdc645e438> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347e80> -> <plotBST.TreeNode object at 0x7fbdc645e438>
+	<plotBST.TreeNode object at 0x7fbdc6444780> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e438> -> <plotBST.TreeNode object at 0x7fbdc6444780>
+	<plotBST.TreeNode object at 0x7fbdc64447b8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444780> -> <plotBST.TreeNode object at 0x7fbdc64447b8>
+	<plotBST.TreeNode object at 0x7fbdcee6a828> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64447b8> -> <plotBST.TreeNode object at 0x7fbdcee6a828>
+	<plotBST.TreeNode object at 0x7fbdc636b320> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc645e438> -> <plotBST.TreeNode object at 0x7fbdc636b320>
+	<plotBST.TreeNode object at 0x7fbdc6441860> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b320> -> <plotBST.TreeNode object at 0x7fbdc6441860>
+	<plotBST.TreeNode object at 0x7fbdc635fa20> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441860> -> <plotBST.TreeNode object at 0x7fbdc635fa20>
+	<plotBST.TreeNode object at 0x7fbdc6350278> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b320> -> <plotBST.TreeNode object at 0x7fbdc6350278>
+	<plotBST.TreeNode object at 0x7fbdc635fba8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350278> -> <plotBST.TreeNode object at 0x7fbdc635fba8>
+	<plotBST.TreeNode object at 0x7fbdc6362358> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350278> -> <plotBST.TreeNode object at 0x7fbdc6362358>
+	<plotBST.TreeNode object at 0x7fbdc6347eb8> [label=6 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347e80> -> <plotBST.TreeNode object at 0x7fbdc6347eb8>
+	<plotBST.TreeNode object at 0x7fbdc64555f8> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347eb8> -> <plotBST.TreeNode object at 0x7fbdc64555f8>
+	<plotBST.TreeNode object at 0x7fbdc6444c50> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64555f8> -> <plotBST.TreeNode object at 0x7fbdc6444c50>
+	<plotBST.TreeNode object at 0x7fbdc6369668> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444c50> -> <plotBST.TreeNode object at 0x7fbdc6369668>
+	<plotBST.TreeNode object at 0x7fbdc6469da0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64555f8> -> <plotBST.TreeNode object at 0x7fbdc6469da0>
+	<plotBST.TreeNode object at 0x7fbdc6372c18> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469da0> -> <plotBST.TreeNode object at 0x7fbdc6372c18>
+	<plotBST.TreeNode object at 0x7fbdc6347ef0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347eb8> -> <plotBST.TreeNode object at 0x7fbdc6347ef0>
+	<plotBST.TreeNode object at 0x7fbdc63503c8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347ef0> -> <plotBST.TreeNode object at 0x7fbdc63503c8>
+	<plotBST.TreeNode object at 0x7fbddfc7e080> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63503c8> -> <plotBST.TreeNode object at 0x7fbddfc7e080>
+	<plotBST.TreeNode object at 0x7fbdc636bcc0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63503c8> -> <plotBST.TreeNode object at 0x7fbdc636bcc0>
+	<plotBST.TreeNode object at 0x7fbdc6444cc0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347ef0> -> <plotBST.TreeNode object at 0x7fbdc6444cc0>
+	<plotBST.TreeNode object at 0x7fbdc6444cf8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444cc0> -> <plotBST.TreeNode object at 0x7fbdc6444cf8>
+	<plotBST.TreeNode object at 0x7fbdc63620b8> [label=10 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457dd8> -> <plotBST.TreeNode object at 0x7fbdc63620b8>
+	<plotBST.TreeNode object at 0x7fbdc6347b38> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63620b8> -> <plotBST.TreeNode object at 0x7fbdc6347b38>
+	<plotBST.TreeNode object at 0x7fbdc635d4e0> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347b38> -> <plotBST.TreeNode object at 0x7fbdc635d4e0>
+	<plotBST.TreeNode object at 0x7fbdc635d518> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d4e0> -> <plotBST.TreeNode object at 0x7fbdc635d518>
+	<plotBST.TreeNode object at 0x7fbdc635d668> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d518> -> <plotBST.TreeNode object at 0x7fbdc635d668>
+	<plotBST.TreeNode object at 0x7fbdc6366358> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d4e0> -> <plotBST.TreeNode object at 0x7fbdc6366358>
+	<plotBST.TreeNode object at 0x7fbdc6366390> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366358> -> <plotBST.TreeNode object at 0x7fbdc6366390>
+	<plotBST.TreeNode object at 0x7fbdc64693c8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347b38> -> <plotBST.TreeNode object at 0x7fbdc64693c8>
+	<plotBST.TreeNode object at 0x7fbdc6350c50> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64693c8> -> <plotBST.TreeNode object at 0x7fbdc6350c50>
+	<plotBST.TreeNode object at 0x7fbdc6350c88> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350c50> -> <plotBST.TreeNode object at 0x7fbdc6350c88>
+	<plotBST.TreeNode object at 0x7fbdc635d9b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64693c8> -> <plotBST.TreeNode object at 0x7fbdc635d9b0>
+	<plotBST.TreeNode object at 0x7fbdc636fe10> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d9b0> -> <plotBST.TreeNode object at 0x7fbdc636fe10>
+	<plotBST.TreeNode object at 0x7fbdc63625f8> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63620b8> -> <plotBST.TreeNode object at 0x7fbdc63625f8>
+	<plotBST.TreeNode object at 0x7fbdc6350b00> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63625f8> -> <plotBST.TreeNode object at 0x7fbdc6350b00>
+	<plotBST.TreeNode object at 0x7fbdc635f898> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350b00> -> <plotBST.TreeNode object at 0x7fbdc635f898>
+	<plotBST.TreeNode object at 0x7fbdc635ff28> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f898> -> <plotBST.TreeNode object at 0x7fbdc635ff28>
+	<plotBST.TreeNode object at 0x7fbdc6366cc0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63625f8> -> <plotBST.TreeNode object at 0x7fbdc6366cc0>
+	<plotBST.TreeNode object at 0x7fbdc636b748> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366cc0> -> <plotBST.TreeNode object at 0x7fbdc636b748>
+	<plotBST.TreeNode object at 0x7fbdc636b7b8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b748> -> <plotBST.TreeNode object at 0x7fbdc636b7b8>
+	<plotBST.TreeNode object at 0x7fbdc6469710> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366cc0> -> <plotBST.TreeNode object at 0x7fbdc6469710>
+	<plotBST.TreeNode object at 0x7fbdc6469630> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469710> -> <plotBST.TreeNode object at 0x7fbdc6469630>
+	<plotBST.TreeNode object at 0x7fbdc65044a8> [label=91 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63723c8> -> <plotBST.TreeNode object at 0x7fbdc65044a8>
+	<plotBST.TreeNode object at 0x7fbdc6366d30> [label=45 color=red]
+	<plotBST.TreeNode object at 0x7fbdc65044a8> -> <plotBST.TreeNode object at 0x7fbdc6366d30>
+	<plotBST.TreeNode object at 0x7fbdc6366160> [label=27 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366d30> -> <plotBST.TreeNode object at 0x7fbdc6366160>
+	<plotBST.TreeNode object at 0x7fbdc6366dd8> [label=16 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366160> -> <plotBST.TreeNode object at 0x7fbdc6366dd8>
+	<plotBST.TreeNode object at 0x7fbdc6366c50> [label=8 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366dd8> -> <plotBST.TreeNode object at 0x7fbdc6366c50>
+	<plotBST.TreeNode object at 0x7fbdc64692b0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366c50> -> <plotBST.TreeNode object at 0x7fbdc64692b0>
+	<plotBST.TreeNode object at 0x7fbdc635d198> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64692b0> -> <plotBST.TreeNode object at 0x7fbdc635d198>
+	<plotBST.TreeNode object at 0x7fbdc6372f28> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d198> -> <plotBST.TreeNode object at 0x7fbdc6372f28>
+	<plotBST.TreeNode object at 0x7fbdc6366b38> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64692b0> -> <plotBST.TreeNode object at 0x7fbdc6366b38>
+	<plotBST.TreeNode object at 0x7fbdc6366b70> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366b38> -> <plotBST.TreeNode object at 0x7fbdc6366b70>
+	<plotBST.TreeNode object at 0x7fbdc6362160> [label=6 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366c50> -> <plotBST.TreeNode object at 0x7fbdc6362160>
+	<plotBST.TreeNode object at 0x7fbdc636fc88> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362160> -> <plotBST.TreeNode object at 0x7fbdc636fc88>
+	<plotBST.TreeNode object at 0x7fbdc636ff28> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636fc88> -> <plotBST.TreeNode object at 0x7fbdc636ff28>
+	<plotBST.TreeNode object at 0x7fbdc635d240> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636fc88> -> <plotBST.TreeNode object at 0x7fbdc635d240>
+	<plotBST.TreeNode object at 0x7fbdc636b710> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362160> -> <plotBST.TreeNode object at 0x7fbdc636b710>
+	<plotBST.TreeNode object at 0x7fbdc636b9b0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b710> -> <plotBST.TreeNode object at 0x7fbdc636b9b0>
+	<plotBST.TreeNode object at 0x7fbdc635f390> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b710> -> <plotBST.TreeNode object at 0x7fbdc635f390>
+	<plotBST.TreeNode object at 0x7fbdc6444a90> [label=6 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366dd8> -> <plotBST.TreeNode object at 0x7fbdc6444a90>
+	<plotBST.TreeNode object at 0x7fbdc6467c88> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444a90> -> <plotBST.TreeNode object at 0x7fbdc6467c88>
+	<plotBST.TreeNode object at 0x7fbdc63478d0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467c88> -> <plotBST.TreeNode object at 0x7fbdc63478d0>
+	<plotBST.TreeNode object at 0x7fbdc636f5c0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63478d0> -> <plotBST.TreeNode object at 0x7fbdc636f5c0>
+	<plotBST.TreeNode object at 0x7fbdc6456f60> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6467c88> -> <plotBST.TreeNode object at 0x7fbdc6456f60>
+	<plotBST.TreeNode object at 0x7fbdc6347cc0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456f60> -> <plotBST.TreeNode object at 0x7fbdc6347cc0>
+	<plotBST.TreeNode object at 0x7fbdc64698d0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444a90> -> <plotBST.TreeNode object at 0x7fbdc64698d0>
+	<plotBST.TreeNode object at 0x7fbdc6469748> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64698d0> -> <plotBST.TreeNode object at 0x7fbdc6469748>
+	<plotBST.TreeNode object at 0x7fbdc6469d68> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469748> -> <plotBST.TreeNode object at 0x7fbdc6469d68>
+	<plotBST.TreeNode object at 0x7fbdc636bcf8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64698d0> -> <plotBST.TreeNode object at 0x7fbdc636bcf8>
+	<plotBST.TreeNode object at 0x7fbdc636bd30> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636bcf8> -> <plotBST.TreeNode object at 0x7fbdc636bd30>
+	<plotBST.TreeNode object at 0x7fbdc635fe48> [label=11 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366160> -> <plotBST.TreeNode object at 0x7fbdc635fe48>
+	<plotBST.TreeNode object at 0x7fbdc6469c88> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635fe48> -> <plotBST.TreeNode object at 0x7fbdc6469c88>
+	<plotBST.TreeNode object at 0x7fbdc6469be0> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469c88> -> <plotBST.TreeNode object at 0x7fbdc6469be0>
+	<plotBST.TreeNode object at 0x7fbddfc7e160> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469be0> -> <plotBST.TreeNode object at 0x7fbddfc7e160>
+	<plotBST.TreeNode object at 0x7fbddfc7e198> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbddfc7e160> -> <plotBST.TreeNode object at 0x7fbddfc7e198>
+	<plotBST.TreeNode object at 0x7fbdc6467ba8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469c88> -> <plotBST.TreeNode object at 0x7fbdc6467ba8>
+	<plotBST.TreeNode object at 0x7fbdcee6a9e8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467ba8> -> <plotBST.TreeNode object at 0x7fbdcee6a9e8>
+	<plotBST.TreeNode object at 0x7fbdc636bd68> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6a9e8> -> <plotBST.TreeNode object at 0x7fbdc636bd68>
+	<plotBST.TreeNode object at 0x7fbdc6456898> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6467ba8> -> <plotBST.TreeNode object at 0x7fbdc6456898>
+	<plotBST.TreeNode object at 0x7fbdc6350550> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456898> -> <plotBST.TreeNode object at 0x7fbdc6350550>
+	<plotBST.TreeNode object at 0x7fbdc635f4a8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456898> -> <plotBST.TreeNode object at 0x7fbdc635f4a8>
+	<plotBST.TreeNode object at 0x7fbdc635fdd8> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635fe48> -> <plotBST.TreeNode object at 0x7fbdc635fdd8>
+	<plotBST.TreeNode object at 0x7fbdc6362208> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635fdd8> -> <plotBST.TreeNode object at 0x7fbdc6362208>
+	<plotBST.TreeNode object at 0x7fbdc6372400> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362208> -> <plotBST.TreeNode object at 0x7fbdc6372400>
+	<plotBST.TreeNode object at 0x7fbddfc7e1d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372400> -> <plotBST.TreeNode object at 0x7fbddfc7e1d0>
+	<plotBST.TreeNode object at 0x7fbdc6457ac8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362208> -> <plotBST.TreeNode object at 0x7fbdc6457ac8>
+	<plotBST.TreeNode object at 0x7fbdc6457b00> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457ac8> -> <plotBST.TreeNode object at 0x7fbdc6457b00>
+	<plotBST.TreeNode object at 0x7fbdc635fef0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635fdd8> -> <plotBST.TreeNode object at 0x7fbdc635fef0>
+	<plotBST.TreeNode object at 0x7fbdc635ff98> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635fef0> -> <plotBST.TreeNode object at 0x7fbdc635ff98>
+	<plotBST.TreeNode object at 0x7fbdc635ffd0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635ff98> -> <plotBST.TreeNode object at 0x7fbdc635ffd0>
+	<plotBST.TreeNode object at 0x7fbdc64697f0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635fef0> -> <plotBST.TreeNode object at 0x7fbdc64697f0>
+	<plotBST.TreeNode object at 0x7fbdc6469a58> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64697f0> -> <plotBST.TreeNode object at 0x7fbdc6469a58>
+	<plotBST.TreeNode object at 0x7fbdc64579e8> [label=15 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366d30> -> <plotBST.TreeNode object at 0x7fbdc64579e8>
+	<plotBST.TreeNode object at 0x7fbdc635f5f8> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64579e8> -> <plotBST.TreeNode object at 0x7fbdc635f5f8>
+	<plotBST.TreeNode object at 0x7fbdc635f588> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f5f8> -> <plotBST.TreeNode object at 0x7fbdc635f588>
+	<plotBST.TreeNode object at 0x7fbdc6469c18> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f588> -> <plotBST.TreeNode object at 0x7fbdc6469c18>
+	<plotBST.TreeNode object at 0x7fbdc6469dd8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469c18> -> <plotBST.TreeNode object at 0x7fbdc6469dd8>
+	<plotBST.TreeNode object at 0x7fbdc636f8d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469dd8> -> <plotBST.TreeNode object at 0x7fbdc636f8d0>
+	<plotBST.TreeNode object at 0x7fbdc635d550> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469dd8> -> <plotBST.TreeNode object at 0x7fbdc635d550>
+	<plotBST.TreeNode object at 0x7fbdc6456668> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f588> -> <plotBST.TreeNode object at 0x7fbdc6456668>
+	<plotBST.TreeNode object at 0x7fbdc6455048> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456668> -> <plotBST.TreeNode object at 0x7fbdc6455048>
+	<plotBST.TreeNode object at 0x7fbdc6455c18> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f5f8> -> <plotBST.TreeNode object at 0x7fbdc6455c18>
+	<plotBST.TreeNode object at 0x7fbdc6362278> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455c18> -> <plotBST.TreeNode object at 0x7fbdc6362278>
+	<plotBST.TreeNode object at 0x7fbdc63626a0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362278> -> <plotBST.TreeNode object at 0x7fbdc63626a0>
+	<plotBST.TreeNode object at 0x7fbdc63626d8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63626a0> -> <plotBST.TreeNode object at 0x7fbdc63626d8>
+	<plotBST.TreeNode object at 0x7fbdc6457c88> [label=11 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64579e8> -> <plotBST.TreeNode object at 0x7fbdc6457c88>
+	<plotBST.TreeNode object at 0x7fbdc6350be0> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457c88> -> <plotBST.TreeNode object at 0x7fbdc6350be0>
+	<plotBST.TreeNode object at 0x7fbdc6444a58> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350be0> -> <plotBST.TreeNode object at 0x7fbdc6444a58>
+	<plotBST.TreeNode object at 0x7fbdc636be80> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444a58> -> <plotBST.TreeNode object at 0x7fbdc636be80>
+	<plotBST.TreeNode object at 0x7fbdc636beb8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636be80> -> <plotBST.TreeNode object at 0x7fbdc636beb8>
+	<plotBST.TreeNode object at 0x7fbdc645e1d0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636be80> -> <plotBST.TreeNode object at 0x7fbdc645e1d0>
+	<plotBST.TreeNode object at 0x7fbdc635f908> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444a58> -> <plotBST.TreeNode object at 0x7fbdc635f908>
+	<plotBST.TreeNode object at 0x7fbdc635fb38> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f908> -> <plotBST.TreeNode object at 0x7fbdc635fb38>
+	<plotBST.TreeNode object at 0x7fbdc63624a8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350be0> -> <plotBST.TreeNode object at 0x7fbdc63624a8>
+	<plotBST.TreeNode object at 0x7fbdc6350978> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63624a8> -> <plotBST.TreeNode object at 0x7fbdc6350978>
+	<plotBST.TreeNode object at 0x7fbdc6350cc0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350978> -> <plotBST.TreeNode object at 0x7fbdc6350cc0>
+	<plotBST.TreeNode object at 0x7fbdc6369dd8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63624a8> -> <plotBST.TreeNode object at 0x7fbdc6369dd8>
+	<plotBST.TreeNode object at 0x7fbdc6369e48> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369dd8> -> <plotBST.TreeNode object at 0x7fbdc6369e48>
+	<plotBST.TreeNode object at 0x7fbdc6457e10> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457c88> -> <plotBST.TreeNode object at 0x7fbdc6457e10>
+	<plotBST.TreeNode object at 0x7fbdc6457e48> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457e10> -> <plotBST.TreeNode object at 0x7fbdc6457e48>
+	<plotBST.TreeNode object at 0x7fbdc645e198> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457e48> -> <plotBST.TreeNode object at 0x7fbdc645e198>
+	<plotBST.TreeNode object at 0x7fbdc6366d68> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e198> -> <plotBST.TreeNode object at 0x7fbdc6366d68>
+	<plotBST.TreeNode object at 0x7fbdc6369f98> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457e10> -> <plotBST.TreeNode object at 0x7fbdc6369f98>
+	<plotBST.TreeNode object at 0x7fbdc6369fd0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369f98> -> <plotBST.TreeNode object at 0x7fbdc6369fd0>
+	<plotBST.TreeNode object at 0x7fbdc636b048> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369fd0> -> <plotBST.TreeNode object at 0x7fbdc636b048>
+	<plotBST.TreeNode object at 0x7fbdc6455b00> [label=39 color=green]
+	<plotBST.TreeNode object at 0x7fbdc65044a8> -> <plotBST.TreeNode object at 0x7fbdc6455b00>
+	<plotBST.TreeNode object at 0x7fbdc64555c0> [label=28 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455b00> -> <plotBST.TreeNode object at 0x7fbdc64555c0>
+	<plotBST.TreeNode object at 0x7fbdc6469cc0> [label=19 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64555c0> -> <plotBST.TreeNode object at 0x7fbdc6469cc0>
+	<plotBST.TreeNode object at 0x7fbdc63625c0> [label=8 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469cc0> -> <plotBST.TreeNode object at 0x7fbdc63625c0>
+	<plotBST.TreeNode object at 0x7fbdc6455710> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63625c0> -> <plotBST.TreeNode object at 0x7fbdc6455710>
+	<plotBST.TreeNode object at 0x7fbdc636b978> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455710> -> <plotBST.TreeNode object at 0x7fbdc636b978>
+	<plotBST.TreeNode object at 0x7fbdc636bb70> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b978> -> <plotBST.TreeNode object at 0x7fbdc636bb70>
+	<plotBST.TreeNode object at 0x7fbdc6455128> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455710> -> <plotBST.TreeNode object at 0x7fbdc6455128>
+	<plotBST.TreeNode object at 0x7fbdc636bbe0> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455128> -> <plotBST.TreeNode object at 0x7fbdc636bbe0>
+	<plotBST.TreeNode object at 0x7fbdc636fef0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455128> -> <plotBST.TreeNode object at 0x7fbdc636fef0>
+	<plotBST.TreeNode object at 0x7fbdc635f2b0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63625c0> -> <plotBST.TreeNode object at 0x7fbdc635f2b0>
+	<plotBST.TreeNode object at 0x7fbdc635f748> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f2b0> -> <plotBST.TreeNode object at 0x7fbdc635f748>
+	<plotBST.TreeNode object at 0x7fbdc635f2e8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f748> -> <plotBST.TreeNode object at 0x7fbdc635f2e8>
+	<plotBST.TreeNode object at 0x7fbdc6347d68> [label=11 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469cc0> -> <plotBST.TreeNode object at 0x7fbdc6347d68>
+	<plotBST.TreeNode object at 0x7fbdc6456cc0> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347d68> -> <plotBST.TreeNode object at 0x7fbdc6456cc0>
+	<plotBST.TreeNode object at 0x7fbdc6350048> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456cc0> -> <plotBST.TreeNode object at 0x7fbdc6350048>
+	<plotBST.TreeNode object at 0x7fbdc636bdd8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350048> -> <plotBST.TreeNode object at 0x7fbdc636bdd8>
+	<plotBST.TreeNode object at 0x7fbdc6366fd0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350048> -> <plotBST.TreeNode object at 0x7fbdc6366fd0>
+	<plotBST.TreeNode object at 0x7fbdc636b4e0> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456cc0> -> <plotBST.TreeNode object at 0x7fbdc636b4e0>
+	<plotBST.TreeNode object at 0x7fbdc636b518> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b4e0> -> <plotBST.TreeNode object at 0x7fbdc636b518>
+	<plotBST.TreeNode object at 0x7fbdc63727b8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347d68> -> <plotBST.TreeNode object at 0x7fbdc63727b8>
+	<plotBST.TreeNode object at 0x7fbdc6372e10> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63727b8> -> <plotBST.TreeNode object at 0x7fbdc6372e10>
+	<plotBST.TreeNode object at 0x7fbdc6369278> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372e10> -> <plotBST.TreeNode object at 0x7fbdc6369278>
+	<plotBST.TreeNode object at 0x7fbdc6469b38> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372e10> -> <plotBST.TreeNode object at 0x7fbdc6469b38>
+	<plotBST.TreeNode object at 0x7fbdc645e128> [label=8 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64555c0> -> <plotBST.TreeNode object at 0x7fbdc645e128>
+	<plotBST.TreeNode object at 0x7fbdc636fb00> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e128> -> <plotBST.TreeNode object at 0x7fbdc636fb00>
+	<plotBST.TreeNode object at 0x7fbdc6455940> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636fb00> -> <plotBST.TreeNode object at 0x7fbdc6455940>
+	<plotBST.TreeNode object at 0x7fbdc6366128> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455940> -> <plotBST.TreeNode object at 0x7fbdc6366128>
+	<plotBST.TreeNode object at 0x7fbdc63664e0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366128> -> <plotBST.TreeNode object at 0x7fbdc63664e0>
+	<plotBST.TreeNode object at 0x7fbdc636fb38> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636fb00> -> <plotBST.TreeNode object at 0x7fbdc636fb38>
+	<plotBST.TreeNode object at 0x7fbdc636fac8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636fb38> -> <plotBST.TreeNode object at 0x7fbdc636fac8>
+	<plotBST.TreeNode object at 0x7fbddfc7e0b8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636fac8> -> <plotBST.TreeNode object at 0x7fbddfc7e0b8>
+	<plotBST.TreeNode object at 0x7fbdc64694a8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636fac8> -> <plotBST.TreeNode object at 0x7fbdc64694a8>
+	<plotBST.TreeNode object at 0x7fbdc63666a0> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc645e128> -> <plotBST.TreeNode object at 0x7fbdc63666a0>
+	<plotBST.TreeNode object at 0x7fbdc635d080> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63666a0> -> <plotBST.TreeNode object at 0x7fbdc635d080>
+	<plotBST.TreeNode object at 0x7fbdc635d0b8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d080> -> <plotBST.TreeNode object at 0x7fbdc635d0b8>
+	<plotBST.TreeNode object at 0x7fbdc635d0f0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d0b8> -> <plotBST.TreeNode object at 0x7fbdc635d0f0>
+	<plotBST.TreeNode object at 0x7fbdc63666d8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63666a0> -> <plotBST.TreeNode object at 0x7fbdc63666d8>
+	<plotBST.TreeNode object at 0x7fbdc6366710> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63666d8> -> <plotBST.TreeNode object at 0x7fbdc6366710>
+	<plotBST.TreeNode object at 0x7fbdc6366748> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366710> -> <plotBST.TreeNode object at 0x7fbdc6366748>
+	<plotBST.TreeNode object at 0x7fbdc635d748> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63666d8> -> <plotBST.TreeNode object at 0x7fbdc635d748>
+	<plotBST.TreeNode object at 0x7fbdc635d780> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d748> -> <plotBST.TreeNode object at 0x7fbdc635d780>
+	<plotBST.TreeNode object at 0x7fbdc636b630> [label=9 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455b00> -> <plotBST.TreeNode object at 0x7fbdc636b630>
+	<plotBST.TreeNode object at 0x7fbdc6469128> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b630> -> <plotBST.TreeNode object at 0x7fbdc6469128>
+	<plotBST.TreeNode object at 0x7fbdc6469f60> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469128> -> <plotBST.TreeNode object at 0x7fbdc6469f60>
+	<plotBST.TreeNode object at 0x7fbdc6456ba8> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469f60> -> <plotBST.TreeNode object at 0x7fbdc6456ba8>
+	<plotBST.TreeNode object at 0x7fbdc6362a20> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456ba8> -> <plotBST.TreeNode object at 0x7fbdc6362a20>
+	<plotBST.TreeNode object at 0x7fbdc63629e8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362a20> -> <plotBST.TreeNode object at 0x7fbdc63629e8>
+	<plotBST.TreeNode object at 0x7fbdc635f9b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362a20> -> <plotBST.TreeNode object at 0x7fbdc635f9b0>
+	<plotBST.TreeNode object at 0x7fbdc64419b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456ba8> -> <plotBST.TreeNode object at 0x7fbdc64419b0>
+	<plotBST.TreeNode object at 0x7fbdc6441b38> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64419b0> -> <plotBST.TreeNode object at 0x7fbdc6441b38>
+	<plotBST.TreeNode object at 0x7fbdc636b358> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469f60> -> <plotBST.TreeNode object at 0x7fbdc636b358>
+	<plotBST.TreeNode object at 0x7fbdc6469eb8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b358> -> <plotBST.TreeNode object at 0x7fbdc6469eb8>
+	<plotBST.TreeNode object at 0x7fbdc645e0b8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469eb8> -> <plotBST.TreeNode object at 0x7fbdc645e0b8>
+	<plotBST.TreeNode object at 0x7fbdc6455518> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b358> -> <plotBST.TreeNode object at 0x7fbdc6455518>
+	<plotBST.TreeNode object at 0x7fbdc636b940> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455518> -> <plotBST.TreeNode object at 0x7fbdc636b940>
+	<plotBST.TreeNode object at 0x7fbdc636b3c8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b630> -> <plotBST.TreeNode object at 0x7fbdc636b3c8>
+	<plotBST.TreeNode object at 0x7fbdc636b4a8> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b3c8> -> <plotBST.TreeNode object at 0x7fbdc636b4a8>
+	<plotBST.TreeNode object at 0x7fbdc636bba8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b4a8> -> <plotBST.TreeNode object at 0x7fbdc636bba8>
+	<plotBST.TreeNode object at 0x7fbdcee6aba8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636bba8> -> <plotBST.TreeNode object at 0x7fbdcee6aba8>
+	<plotBST.TreeNode object at 0x7fbdc6469b00> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6aba8> -> <plotBST.TreeNode object at 0x7fbdc6469b00>
+	<plotBST.TreeNode object at 0x7fbdc6372b38> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6aba8> -> <plotBST.TreeNode object at 0x7fbdc6372b38>
+	<plotBST.TreeNode object at 0x7fbdc636f160> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b4a8> -> <plotBST.TreeNode object at 0x7fbdc636f160>
+	<plotBST.TreeNode object at 0x7fbdc636f198> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f160> -> <plotBST.TreeNode object at 0x7fbdc636f198>
+	<plotBST.TreeNode object at 0x7fbdc636f1d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f198> -> <plotBST.TreeNode object at 0x7fbdc636f1d0>
+	<plotBST.TreeNode object at 0x7fbdc63500b8> [label=121 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63663c8> -> <plotBST.TreeNode object at 0x7fbdc63500b8>
+	<plotBST.TreeNode object at 0x7fbdc63502b0> [label=78 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63500b8> -> <plotBST.TreeNode object at 0x7fbdc63502b0>
+	<plotBST.TreeNode object at 0x7fbdc635dc50> [label=48 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63502b0> -> <plotBST.TreeNode object at 0x7fbdc635dc50>
+	<plotBST.TreeNode object at 0x7fbdc635f6a0> [label=30 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635dc50> -> <plotBST.TreeNode object at 0x7fbdc635f6a0>
+	<plotBST.TreeNode object at 0x7fbdc635de48> [label=19 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f6a0> -> <plotBST.TreeNode object at 0x7fbdc635de48>
+	<plotBST.TreeNode object at 0x7fbdc6444860> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635de48> -> <plotBST.TreeNode object at 0x7fbdc6444860>
+	<plotBST.TreeNode object at 0x7fbdc6444c88> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444860> -> <plotBST.TreeNode object at 0x7fbdc6444c88>
+	<plotBST.TreeNode object at 0x7fbdc636f518> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444c88> -> <plotBST.TreeNode object at 0x7fbdc636f518>
+	<plotBST.TreeNode object at 0x7fbdc636f630> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f518> -> <plotBST.TreeNode object at 0x7fbdc636f630>
+	<plotBST.TreeNode object at 0x7fbdc635dda0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444c88> -> <plotBST.TreeNode object at 0x7fbdc635dda0>
+	<plotBST.TreeNode object at 0x7fbdc63691d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635dda0> -> <plotBST.TreeNode object at 0x7fbdc63691d0>
+	<plotBST.TreeNode object at 0x7fbdc645e390> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444860> -> <plotBST.TreeNode object at 0x7fbdc645e390>
+	<plotBST.TreeNode object at 0x7fbdc635df28> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e390> -> <plotBST.TreeNode object at 0x7fbdc635df28>
+	<plotBST.TreeNode object at 0x7fbdc635df60> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635df28> -> <plotBST.TreeNode object at 0x7fbdc635df60>
+	<plotBST.TreeNode object at 0x7fbdc6455898> [label=11 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635de48> -> <plotBST.TreeNode object at 0x7fbdc6455898>
+	<plotBST.TreeNode object at 0x7fbdc6372630> [label=8 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455898> -> <plotBST.TreeNode object at 0x7fbdc6372630>
+	<plotBST.TreeNode object at 0x7fbdc636bc50> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372630> -> <plotBST.TreeNode object at 0x7fbdc636bc50>
+	<plotBST.TreeNode object at 0x7fbdc6369240> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636bc50> -> <plotBST.TreeNode object at 0x7fbdc6369240>
+	<plotBST.TreeNode object at 0x7fbdc636bc88> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636bc50> -> <plotBST.TreeNode object at 0x7fbdc636bc88>
+	<plotBST.TreeNode object at 0x7fbdc6372668> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372630> -> <plotBST.TreeNode object at 0x7fbdc6372668>
+	<plotBST.TreeNode object at 0x7fbdc63725f8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372668> -> <plotBST.TreeNode object at 0x7fbdc63725f8>
+	<plotBST.TreeNode object at 0x7fbdc6372198> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455898> -> <plotBST.TreeNode object at 0x7fbdc6372198>
+	<plotBST.TreeNode object at 0x7fbdc6456ef0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372198> -> <plotBST.TreeNode object at 0x7fbdc6456ef0>
+	<plotBST.TreeNode object at 0x7fbdc6372160> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456ef0> -> <plotBST.TreeNode object at 0x7fbdc6372160>
+	<plotBST.TreeNode object at 0x7fbdc63697b8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372198> -> <plotBST.TreeNode object at 0x7fbdc63697b8>
+	<plotBST.TreeNode object at 0x7fbdc63692b0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63697b8> -> <plotBST.TreeNode object at 0x7fbdc63692b0>
+	<plotBST.TreeNode object at 0x7fbdc6362c88> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63697b8> -> <plotBST.TreeNode object at 0x7fbdc6362c88>
+	<plotBST.TreeNode object at 0x7fbdc6347da0> [label=9 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f6a0> -> <plotBST.TreeNode object at 0x7fbdc6347da0>
+	<plotBST.TreeNode object at 0x7fbdc6347f60> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347da0> -> <plotBST.TreeNode object at 0x7fbdc6347f60>
+	<plotBST.TreeNode object at 0x7fbdc635df98> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347f60> -> <plotBST.TreeNode object at 0x7fbdc635df98>
+	<plotBST.TreeNode object at 0x7fbdc635d940> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635df98> -> <plotBST.TreeNode object at 0x7fbdc635d940>
+	<plotBST.TreeNode object at 0x7fbdc6467a58> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d940> -> <plotBST.TreeNode object at 0x7fbdc6467a58>
+	<plotBST.TreeNode object at 0x7fbdc6347dd8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347f60> -> <plotBST.TreeNode object at 0x7fbdc6347dd8>
+	<plotBST.TreeNode object at 0x7fbdc6347b00> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347dd8> -> <plotBST.TreeNode object at 0x7fbdc6347b00>
+	<plotBST.TreeNode object at 0x7fbdc6350860> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347b00> -> <plotBST.TreeNode object at 0x7fbdc6350860>
+	<plotBST.TreeNode object at 0x7fbdc6369898> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347b00> -> <plotBST.TreeNode object at 0x7fbdc6369898>
+	<plotBST.TreeNode object at 0x7fbdc6372860> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347da0> -> <plotBST.TreeNode object at 0x7fbdc6372860>
+	<plotBST.TreeNode object at 0x7fbdc6467c50> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372860> -> <plotBST.TreeNode object at 0x7fbdc6467c50>
+	<plotBST.TreeNode object at 0x7fbdc635f3c8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6467c50> -> <plotBST.TreeNode object at 0x7fbdc635f3c8>
+	<plotBST.TreeNode object at 0x7fbdc635f400> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f3c8> -> <plotBST.TreeNode object at 0x7fbdc635f400>
+	<plotBST.TreeNode object at 0x7fbdc635d358> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372860> -> <plotBST.TreeNode object at 0x7fbdc635d358>
+	<plotBST.TreeNode object at 0x7fbdc635dfd0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d358> -> <plotBST.TreeNode object at 0x7fbdc635dfd0>
+	<plotBST.TreeNode object at 0x7fbdc6362470> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635dfd0> -> <plotBST.TreeNode object at 0x7fbdc6362470>
+	<plotBST.TreeNode object at 0x7fbdc6369e80> [label=16 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635dc50> -> <plotBST.TreeNode object at 0x7fbdc6369e80>
+	<plotBST.TreeNode object at 0x7fbdc635f5c0> [label=9 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369e80> -> <plotBST.TreeNode object at 0x7fbdc635f5c0>
+	<plotBST.TreeNode object at 0x7fbdc645e208> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f5c0> -> <plotBST.TreeNode object at 0x7fbdc645e208>
+	<plotBST.TreeNode object at 0x7fbdc6350908> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e208> -> <plotBST.TreeNode object at 0x7fbdc6350908>
+	<plotBST.TreeNode object at 0x7fbdc6456d30> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350908> -> <plotBST.TreeNode object at 0x7fbdc6456d30>
+	<plotBST.TreeNode object at 0x7fbdc6456780> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456d30> -> <plotBST.TreeNode object at 0x7fbdc6456780>
+	<plotBST.TreeNode object at 0x7fbdc63695c0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350908> -> <plotBST.TreeNode object at 0x7fbdc63695c0>
+	<plotBST.TreeNode object at 0x7fbdc63696a0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63695c0> -> <plotBST.TreeNode object at 0x7fbdc63696a0>
+	<plotBST.TreeNode object at 0x7fbdc6372a20> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc645e208> -> <plotBST.TreeNode object at 0x7fbdc6372a20>
+	<plotBST.TreeNode object at 0x7fbdc6372a58> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372a20> -> <plotBST.TreeNode object at 0x7fbdc6372a58>
+	<plotBST.TreeNode object at 0x7fbdc635f240> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372a58> -> <plotBST.TreeNode object at 0x7fbdc635f240>
+	<plotBST.TreeNode object at 0x7fbdc63729e8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372a58> -> <plotBST.TreeNode object at 0x7fbdc63729e8>
+	<plotBST.TreeNode object at 0x7fbdcee6a550> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f5c0> -> <plotBST.TreeNode object at 0x7fbdcee6a550>
+	<plotBST.TreeNode object at 0x7fbdc6456fd0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6a550> -> <plotBST.TreeNode object at 0x7fbdc6456fd0>
+	<plotBST.TreeNode object at 0x7fbdc64567f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456fd0> -> <plotBST.TreeNode object at 0x7fbdc64567f0>
+	<plotBST.TreeNode object at 0x7fbdc6456828> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64567f0> -> <plotBST.TreeNode object at 0x7fbdc6456828>
+	<plotBST.TreeNode object at 0x7fbdc6362e48> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6a550> -> <plotBST.TreeNode object at 0x7fbdc6362e48>
+	<plotBST.TreeNode object at 0x7fbdc6362e80> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362e48> -> <plotBST.TreeNode object at 0x7fbdc6362e80>
+	<plotBST.TreeNode object at 0x7fbdc6362eb8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362e80> -> <plotBST.TreeNode object at 0x7fbdc6362eb8>
+	<plotBST.TreeNode object at 0x7fbdc6456a58> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369e80> -> <plotBST.TreeNode object at 0x7fbdc6456a58>
+	<plotBST.TreeNode object at 0x7fbdc635fac8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456a58> -> <plotBST.TreeNode object at 0x7fbdc635fac8>
+	<plotBST.TreeNode object at 0x7fbdc6347908> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635fac8> -> <plotBST.TreeNode object at 0x7fbdc6347908>
+	<plotBST.TreeNode object at 0x7fbdc6372978> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347908> -> <plotBST.TreeNode object at 0x7fbdc6372978>
+	<plotBST.TreeNode object at 0x7fbdc63729b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372978> -> <plotBST.TreeNode object at 0x7fbdc63729b0>
+	<plotBST.TreeNode object at 0x7fbdc6456940> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456a58> -> <plotBST.TreeNode object at 0x7fbdc6456940>
+	<plotBST.TreeNode object at 0x7fbdc6362320> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456940> -> <plotBST.TreeNode object at 0x7fbdc6362320>
+	<plotBST.TreeNode object at 0x7fbdc63627f0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362320> -> <plotBST.TreeNode object at 0x7fbdc63627f0>
+	<plotBST.TreeNode object at 0x7fbdc6350438> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456940> -> <plotBST.TreeNode object at 0x7fbdc6350438>
+	<plotBST.TreeNode object at 0x7fbdc645e048> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350438> -> <plotBST.TreeNode object at 0x7fbdc645e048>
+	<plotBST.TreeNode object at 0x7fbdc6455400> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e048> -> <plotBST.TreeNode object at 0x7fbdc6455400>
+	<plotBST.TreeNode object at 0x7fbdc636f470> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc645e048> -> <plotBST.TreeNode object at 0x7fbdc636f470>
+	<plotBST.TreeNode object at 0x7fbdc6350940> [label=27 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63502b0> -> <plotBST.TreeNode object at 0x7fbdc6350940>
+	<plotBST.TreeNode object at 0x7fbdc6366f28> [label=18 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350940> -> <plotBST.TreeNode object at 0x7fbdc6366f28>
+	<plotBST.TreeNode object at 0x7fbdc636f828> [label=9 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366f28> -> <plotBST.TreeNode object at 0x7fbdc636f828>
+	<plotBST.TreeNode object at 0x7fbdc636fc18> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f828> -> <plotBST.TreeNode object at 0x7fbdc636fc18>
+	<plotBST.TreeNode object at 0x7fbdc6456c88> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636fc18> -> <plotBST.TreeNode object at 0x7fbdc6456c88>
+	<plotBST.TreeNode object at 0x7fbdc636fb70> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456c88> -> <plotBST.TreeNode object at 0x7fbdc636fb70>
+	<plotBST.TreeNode object at 0x7fbdc636fba8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636fb70> -> <plotBST.TreeNode object at 0x7fbdc636fba8>
+	<plotBST.TreeNode object at 0x7fbdc6369080> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636fc18> -> <plotBST.TreeNode object at 0x7fbdc6369080>
+	<plotBST.TreeNode object at 0x7fbdc63697f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369080> -> <plotBST.TreeNode object at 0x7fbdc63697f0>
+	<plotBST.TreeNode object at 0x7fbdcee6a710> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63697f0> -> <plotBST.TreeNode object at 0x7fbdcee6a710>
+	<plotBST.TreeNode object at 0x7fbdc6362128> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369080> -> <plotBST.TreeNode object at 0x7fbdc6362128>
+	<plotBST.TreeNode object at 0x7fbdc63622b0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362128> -> <plotBST.TreeNode object at 0x7fbdc63622b0>
+	<plotBST.TreeNode object at 0x7fbdc635d320> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f828> -> <plotBST.TreeNode object at 0x7fbdc635d320>
+	<plotBST.TreeNode object at 0x7fbdc635d710> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d320> -> <plotBST.TreeNode object at 0x7fbdc635d710>
+	<plotBST.TreeNode object at 0x7fbdc6504d68> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d710> -> <plotBST.TreeNode object at 0x7fbdc6504d68>
+	<plotBST.TreeNode object at 0x7fbdc6372a90> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6504d68> -> <plotBST.TreeNode object at 0x7fbdc6372a90>
+	<plotBST.TreeNode object at 0x7fbdc6362978> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d710> -> <plotBST.TreeNode object at 0x7fbdc6362978>
+	<plotBST.TreeNode object at 0x7fbdc63629b0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362978> -> <plotBST.TreeNode object at 0x7fbdc63629b0>
+	<plotBST.TreeNode object at 0x7fbdc635d908> [label=9 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366f28> -> <plotBST.TreeNode object at 0x7fbdc635d908>
+	<plotBST.TreeNode object at 0x7fbdc635d630> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d908> -> <plotBST.TreeNode object at 0x7fbdc635d630>
+	<plotBST.TreeNode object at 0x7fbdc63504a8> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d630> -> <plotBST.TreeNode object at 0x7fbdc63504a8>
+	<plotBST.TreeNode object at 0x7fbdc6369b70> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63504a8> -> <plotBST.TreeNode object at 0x7fbdc6369b70>
+	<plotBST.TreeNode object at 0x7fbdc63477f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369b70> -> <plotBST.TreeNode object at 0x7fbdc63477f0>
+	<plotBST.TreeNode object at 0x7fbdc6369c50> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369b70> -> <plotBST.TreeNode object at 0x7fbdc6369c50>
+	<plotBST.TreeNode object at 0x7fbdc6350cf8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63504a8> -> <plotBST.TreeNode object at 0x7fbdc6350cf8>
+	<plotBST.TreeNode object at 0x7fbdc63509e8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350cf8> -> <plotBST.TreeNode object at 0x7fbdc63509e8>
+	<plotBST.TreeNode object at 0x7fbdc6372748> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d630> -> <plotBST.TreeNode object at 0x7fbdc6372748>
+	<plotBST.TreeNode object at 0x7fbdc6372780> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372748> -> <plotBST.TreeNode object at 0x7fbdc6372780>
+	<plotBST.TreeNode object at 0x7fbdc6372c88> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372780> -> <plotBST.TreeNode object at 0x7fbdc6372c88>
+	<plotBST.TreeNode object at 0x7fbdc6441ac8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d908> -> <plotBST.TreeNode object at 0x7fbdc6441ac8>
+	<plotBST.TreeNode object at 0x7fbdc6366a90> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441ac8> -> <plotBST.TreeNode object at 0x7fbdc6366a90>
+	<plotBST.TreeNode object at 0x7fbdc6350a20> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366a90> -> <plotBST.TreeNode object at 0x7fbdc6350a20>
+	<plotBST.TreeNode object at 0x7fbdc63720f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350a20> -> <plotBST.TreeNode object at 0x7fbdc63720f0>
+	<plotBST.TreeNode object at 0x7fbdc635d5c0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366a90> -> <plotBST.TreeNode object at 0x7fbdc635d5c0>
+	<plotBST.TreeNode object at 0x7fbdc6456dd8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d5c0> -> <plotBST.TreeNode object at 0x7fbdc6456dd8>
+	<plotBST.TreeNode object at 0x7fbdc6441b70> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d5c0> -> <plotBST.TreeNode object at 0x7fbdc6441b70>
+	<plotBST.TreeNode object at 0x7fbdc6369eb8> [label=8 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350940> -> <plotBST.TreeNode object at 0x7fbdc6369eb8>
+	<plotBST.TreeNode object at 0x7fbdc6456f98> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369eb8> -> <plotBST.TreeNode object at 0x7fbdc6456f98>
+	<plotBST.TreeNode object at 0x7fbdc6444ac8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456f98> -> <plotBST.TreeNode object at 0x7fbdc6444ac8>
+	<plotBST.TreeNode object at 0x7fbdc6444b00> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444ac8> -> <plotBST.TreeNode object at 0x7fbdc6444b00>
+	<plotBST.TreeNode object at 0x7fbdc6444b38> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444b00> -> <plotBST.TreeNode object at 0x7fbdc6444b38>
+	<plotBST.TreeNode object at 0x7fbdc6444710> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444b38> -> <plotBST.TreeNode object at 0x7fbdc6444710>
+	<plotBST.TreeNode object at 0x7fbdc6456860> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456f98> -> <plotBST.TreeNode object at 0x7fbdc6456860>
+	<plotBST.TreeNode object at 0x7fbdc6372128> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456860> -> <plotBST.TreeNode object at 0x7fbdc6372128>
+	<plotBST.TreeNode object at 0x7fbdc6366f98> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372128> -> <plotBST.TreeNode object at 0x7fbdc6366f98>
+	<plotBST.TreeNode object at 0x7fbdc6444d68> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366f98> -> <plotBST.TreeNode object at 0x7fbdc6444d68>
+	<plotBST.TreeNode object at 0x7fbdc635d390> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456860> -> <plotBST.TreeNode object at 0x7fbdc635d390>
+	<plotBST.TreeNode object at 0x7fbdc635d9e8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d390> -> <plotBST.TreeNode object at 0x7fbdc635d9e8>
+	<plotBST.TreeNode object at 0x7fbdc6369860> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d9e8> -> <plotBST.TreeNode object at 0x7fbdc6369860>
+	<plotBST.TreeNode object at 0x7fbdc6469898> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369eb8> -> <plotBST.TreeNode object at 0x7fbdc6469898>
+	<plotBST.TreeNode object at 0x7fbdc6469f28> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469898> -> <plotBST.TreeNode object at 0x7fbdc6469f28>
+	<plotBST.TreeNode object at 0x7fbdc64678d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469f28> -> <plotBST.TreeNode object at 0x7fbdc64678d0>
+	<plotBST.TreeNode object at 0x7fbdc635d8d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64678d0> -> <plotBST.TreeNode object at 0x7fbdc635d8d0>
+	<plotBST.TreeNode object at 0x7fbddfc7e0f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d8d0> -> <plotBST.TreeNode object at 0x7fbddfc7e0f0>
+	<plotBST.TreeNode object at 0x7fbdc6469390> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469898> -> <plotBST.TreeNode object at 0x7fbdc6469390>
+	<plotBST.TreeNode object at 0x7fbdc6441c50> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469390> -> <plotBST.TreeNode object at 0x7fbdc6441c50>
+	<plotBST.TreeNode object at 0x7fbdc64550f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441c50> -> <plotBST.TreeNode object at 0x7fbdc64550f0>
+	<plotBST.TreeNode object at 0x7fbdc6366c88> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64550f0> -> <plotBST.TreeNode object at 0x7fbdc6366c88>
+	<plotBST.TreeNode object at 0x7fbdc6457c50> [label=41 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63500b8> -> <plotBST.TreeNode object at 0x7fbdc6457c50>
+	<plotBST.TreeNode object at 0x7fbdc636f0b8> [label=27 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457c50> -> <plotBST.TreeNode object at 0x7fbdc636f0b8>
+	<plotBST.TreeNode object at 0x7fbdc6347a58> [label=18 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f0b8> -> <plotBST.TreeNode object at 0x7fbdc6347a58>
+	<plotBST.TreeNode object at 0x7fbdc6347c18> [label=10 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347a58> -> <plotBST.TreeNode object at 0x7fbdc6347c18>
+	<plotBST.TreeNode object at 0x7fbdc6347940> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347c18> -> <plotBST.TreeNode object at 0x7fbdc6347940>
+	<plotBST.TreeNode object at 0x7fbdc6441f28> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347940> -> <plotBST.TreeNode object at 0x7fbdc6441f28>
+	<plotBST.TreeNode object at 0x7fbdc6441be0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441f28> -> <plotBST.TreeNode object at 0x7fbdc6441be0>
+	<plotBST.TreeNode object at 0x7fbdc6441c18> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441be0> -> <plotBST.TreeNode object at 0x7fbdc6441c18>
+	<plotBST.TreeNode object at 0x7fbdc635f668> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441f28> -> <plotBST.TreeNode object at 0x7fbdc635f668>
+	<plotBST.TreeNode object at 0x7fbdc635fe80> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f668> -> <plotBST.TreeNode object at 0x7fbdc635fe80>
+	<plotBST.TreeNode object at 0x7fbdc64695f8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347940> -> <plotBST.TreeNode object at 0x7fbdc64695f8>
+	<plotBST.TreeNode object at 0x7fbdc6467860> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64695f8> -> <plotBST.TreeNode object at 0x7fbdc6467860>
+	<plotBST.TreeNode object at 0x7fbdc6467898> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467860> -> <plotBST.TreeNode object at 0x7fbdc6467898>
+	<plotBST.TreeNode object at 0x7fbdc6469908> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64695f8> -> <plotBST.TreeNode object at 0x7fbdc6469908>
+	<plotBST.TreeNode object at 0x7fbdc64690b8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469908> -> <plotBST.TreeNode object at 0x7fbdc64690b8>
+	<plotBST.TreeNode object at 0x7fbdcee6a5c0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347c18> -> <plotBST.TreeNode object at 0x7fbdcee6a5c0>
+	<plotBST.TreeNode object at 0x7fbdc6469780> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6a5c0> -> <plotBST.TreeNode object at 0x7fbdc6469780>
+	<plotBST.TreeNode object at 0x7fbdc6469f98> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469780> -> <plotBST.TreeNode object at 0x7fbdc6469f98>
+	<plotBST.TreeNode object at 0x7fbdc6469fd0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469f98> -> <plotBST.TreeNode object at 0x7fbdc6469fd0>
+	<plotBST.TreeNode object at 0x7fbdc6469b70> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6a5c0> -> <plotBST.TreeNode object at 0x7fbdc6469b70>
+	<plotBST.TreeNode object at 0x7fbdc6456d68> [label=6 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347a58> -> <plotBST.TreeNode object at 0x7fbdc6456d68>
+	<plotBST.TreeNode object at 0x7fbdc635d828> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456d68> -> <plotBST.TreeNode object at 0x7fbdc635d828>
+	<plotBST.TreeNode object at 0x7fbdc635dcc0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d828> -> <plotBST.TreeNode object at 0x7fbdc635dcc0>
+	<plotBST.TreeNode object at 0x7fbdc6366908> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635dcc0> -> <plotBST.TreeNode object at 0x7fbdc6366908>
+	<plotBST.TreeNode object at 0x7fbdc6366940> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366908> -> <plotBST.TreeNode object at 0x7fbdc6366940>
+	<plotBST.TreeNode object at 0x7fbdc6441cf8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456d68> -> <plotBST.TreeNode object at 0x7fbdc6441cf8>
+	<plotBST.TreeNode object at 0x7fbdcee6a208> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441cf8> -> <plotBST.TreeNode object at 0x7fbdcee6a208>
+	<plotBST.TreeNode object at 0x7fbdc6504518> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6a208> -> <plotBST.TreeNode object at 0x7fbdc6504518>
+	<plotBST.TreeNode object at 0x7fbdc636be10> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6504518> -> <plotBST.TreeNode object at 0x7fbdc636be10>
+	<plotBST.TreeNode object at 0x7fbdc6456b70> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441cf8> -> <plotBST.TreeNode object at 0x7fbdc6456b70>
+	<plotBST.TreeNode object at 0x7fbdc636b7f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456b70> -> <plotBST.TreeNode object at 0x7fbdc636b7f0>
+	<plotBST.TreeNode object at 0x7fbdc636b828> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b7f0> -> <plotBST.TreeNode object at 0x7fbdc636b828>
+	<plotBST.TreeNode object at 0x7fbdc6369c88> [label=9 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f0b8> -> <plotBST.TreeNode object at 0x7fbdc6369c88>
+	<plotBST.TreeNode object at 0x7fbdc6369cc0> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369c88> -> <plotBST.TreeNode object at 0x7fbdc6369cc0>
+	<plotBST.TreeNode object at 0x7fbdc645e400> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369cc0> -> <plotBST.TreeNode object at 0x7fbdc645e400>
+	<plotBST.TreeNode object at 0x7fbdc636f6d8> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e400> -> <plotBST.TreeNode object at 0x7fbdc636f6d8>
+	<plotBST.TreeNode object at 0x7fbdc636f710> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f6d8> -> <plotBST.TreeNode object at 0x7fbdc636f710>
+	<plotBST.TreeNode object at 0x7fbdc636f668> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f710> -> <plotBST.TreeNode object at 0x7fbdc636f668>
+	<plotBST.TreeNode object at 0x7fbdc636f080> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f710> -> <plotBST.TreeNode object at 0x7fbdc636f080>
+	<plotBST.TreeNode object at 0x7fbdc645e3c8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc645e400> -> <plotBST.TreeNode object at 0x7fbdc645e3c8>
+	<plotBST.TreeNode object at 0x7fbdc6372cc0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e3c8> -> <plotBST.TreeNode object at 0x7fbdc6372cc0>
+	<plotBST.TreeNode object at 0x7fbdc636fc50> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372cc0> -> <plotBST.TreeNode object at 0x7fbdc636fc50>
+	<plotBST.TreeNode object at 0x7fbdc6372c50> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372cc0> -> <plotBST.TreeNode object at 0x7fbdc6372c50>
+	<plotBST.TreeNode object at 0x7fbdc636b908> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369cc0> -> <plotBST.TreeNode object at 0x7fbdc636b908>
+	<plotBST.TreeNode object at 0x7fbdc636f208> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b908> -> <plotBST.TreeNode object at 0x7fbdc636f208>
+	<plotBST.TreeNode object at 0x7fbdc636f390> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f208> -> <plotBST.TreeNode object at 0x7fbdc636f390>
+	<plotBST.TreeNode object at 0x7fbdc636f9b0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f390> -> <plotBST.TreeNode object at 0x7fbdc636f9b0>
+	<plotBST.TreeNode object at 0x7fbdc6362940> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369c88> -> <plotBST.TreeNode object at 0x7fbdc6362940>
+	<plotBST.TreeNode object at 0x7fbdc6362898> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362940> -> <plotBST.TreeNode object at 0x7fbdc6362898>
+	<plotBST.TreeNode object at 0x7fbdc6362da0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362898> -> <plotBST.TreeNode object at 0x7fbdc6362da0>
+	<plotBST.TreeNode object at 0x7fbdc6362908> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362da0> -> <plotBST.TreeNode object at 0x7fbdc6362908>
+	<plotBST.TreeNode object at 0x7fbdc6362c50> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362908> -> <plotBST.TreeNode object at 0x7fbdc6362c50>
+	<plotBST.TreeNode object at 0x7fbdc64679b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362898> -> <plotBST.TreeNode object at 0x7fbdc64679b0>
+	<plotBST.TreeNode object at 0x7fbdc64679e8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64679b0> -> <plotBST.TreeNode object at 0x7fbdc64679e8>
+	<plotBST.TreeNode object at 0x7fbdc6467a20> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64679e8> -> <plotBST.TreeNode object at 0x7fbdc6467a20>
+	<plotBST.TreeNode object at 0x7fbdc6362240> [label=13 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457c50> -> <plotBST.TreeNode object at 0x7fbdc6362240>
+	<plotBST.TreeNode object at 0x7fbdc6362828> [label=10 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362240> -> <plotBST.TreeNode object at 0x7fbdc6362828>
+	<plotBST.TreeNode object at 0x7fbdc6362ef0> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362828> -> <plotBST.TreeNode object at 0x7fbdc6362ef0>
+	<plotBST.TreeNode object at 0x7fbdc6467be0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362ef0> -> <plotBST.TreeNode object at 0x7fbdc6467be0>
+	<plotBST.TreeNode object at 0x7fbdc6369f60> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6467be0> -> <plotBST.TreeNode object at 0x7fbdc6369f60>
+	<plotBST.TreeNode object at 0x7fbdc6369ef0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369f60> -> <plotBST.TreeNode object at 0x7fbdc6369ef0>
+	<plotBST.TreeNode object at 0x7fbdc6369f28> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369ef0> -> <plotBST.TreeNode object at 0x7fbdc6369f28>
+	<plotBST.TreeNode object at 0x7fbdc635fa58> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369f60> -> <plotBST.TreeNode object at 0x7fbdc635fa58>
+	<plotBST.TreeNode object at 0x7fbdc6362cc0> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362ef0> -> <plotBST.TreeNode object at 0x7fbdc6362cc0>
+	<plotBST.TreeNode object at 0x7fbdc635dd30> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362cc0> -> <plotBST.TreeNode object at 0x7fbdc635dd30>
+	<plotBST.TreeNode object at 0x7fbdc6366a20> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635dd30> -> <plotBST.TreeNode object at 0x7fbdc6366a20>
+	<plotBST.TreeNode object at 0x7fbdc6366a58> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366a20> -> <plotBST.TreeNode object at 0x7fbdc6366a58>
+	<plotBST.TreeNode object at 0x7fbdc6469048> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635dd30> -> <plotBST.TreeNode object at 0x7fbdc6469048>
+	<plotBST.TreeNode object at 0x7fbdc6366978> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469048> -> <plotBST.TreeNode object at 0x7fbdc6366978>
+	<plotBST.TreeNode object at 0x7fbdc6362a90> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362cc0> -> <plotBST.TreeNode object at 0x7fbdc6362a90>
+	<plotBST.TreeNode object at 0x7fbdc6362ac8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362a90> -> <plotBST.TreeNode object at 0x7fbdc6362ac8>
+	<plotBST.TreeNode object at 0x7fbdc6362c18> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362ac8> -> <plotBST.TreeNode object at 0x7fbdc6362c18>
+	<plotBST.TreeNode object at 0x7fbdc6362860> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362828> -> <plotBST.TreeNode object at 0x7fbdc6362860>
+	<plotBST.TreeNode object at 0x7fbdc6444c18> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362860> -> <plotBST.TreeNode object at 0x7fbdc6444c18>
+	<plotBST.TreeNode object at 0x7fbdc63668d0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444c18> -> <plotBST.TreeNode object at 0x7fbdc63668d0>
+	<plotBST.TreeNode object at 0x7fbdc636f748> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63668d0> -> <plotBST.TreeNode object at 0x7fbdc636f748>
+	<plotBST.TreeNode object at 0x7fbdc636f780> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f748> -> <plotBST.TreeNode object at 0x7fbdc636f780>
+	<plotBST.TreeNode object at 0x7fbdc6372cf8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63668d0> -> <plotBST.TreeNode object at 0x7fbdc6372cf8>
+	<plotBST.TreeNode object at 0x7fbdc6372d30> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372cf8> -> <plotBST.TreeNode object at 0x7fbdc6372d30>
+	<plotBST.TreeNode object at 0x7fbdc6456cf8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444c18> -> <plotBST.TreeNode object at 0x7fbdc6456cf8>
+	<plotBST.TreeNode object at 0x7fbdc6456f28> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456cf8> -> <plotBST.TreeNode object at 0x7fbdc6456f28>
+	<plotBST.TreeNode object at 0x7fbdc6456eb8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456f28> -> <plotBST.TreeNode object at 0x7fbdc6456eb8>
+	<plotBST.TreeNode object at 0x7fbdc6362e10> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362860> -> <plotBST.TreeNode object at 0x7fbdc6362e10>
+	<plotBST.TreeNode object at 0x7fbdc6362ba8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362e10> -> <plotBST.TreeNode object at 0x7fbdc6362ba8>
+	<plotBST.TreeNode object at 0x7fbdc6369d30> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362ba8> -> <plotBST.TreeNode object at 0x7fbdc6369d30>
+	<plotBST.TreeNode object at 0x7fbdc6369d68> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369d30> -> <plotBST.TreeNode object at 0x7fbdc6369d68>
+	<plotBST.TreeNode object at 0x7fbdc6362710> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362240> -> <plotBST.TreeNode object at 0x7fbdc6362710>
+	<plotBST.TreeNode object at 0x7fbdc6350518> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362710> -> <plotBST.TreeNode object at 0x7fbdc6350518>
+	<plotBST.TreeNode object at 0x7fbdc6350588> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350518> -> <plotBST.TreeNode object at 0x7fbdc6350588>
+	<plotBST.TreeNode object at 0x7fbdc63505c0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350588> -> <plotBST.TreeNode object at 0x7fbdc63505c0>
+	<plotBST.TreeNode object at 0x7fbdc635f4e0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63505c0> -> <plotBST.TreeNode object at 0x7fbdc635f4e0>
+	<plotBST.TreeNode object at 0x7fbdc635f518> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f4e0> -> <plotBST.TreeNode object at 0x7fbdc635f518>
+	<plotBST.TreeNode object at 0x7fbdc6350da0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362710> -> <plotBST.TreeNode object at 0x7fbdc6350da0>
+	<plotBST.TreeNode object at 0x7fbdc6350ef0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350da0> -> <plotBST.TreeNode object at 0x7fbdc6350ef0>
+	<plotBST.TreeNode object at 0x7fbdc635d160> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350ef0> -> <plotBST.TreeNode object at 0x7fbdc635d160>
+	<plotBST.TreeNode object at 0x7fbdc635d208> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d160> -> <plotBST.TreeNode object at 0x7fbdc635d208>
+	<plotBST.TreeNode object at 0x7fbdc6362a58> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d208> -> <plotBST.TreeNode object at 0x7fbdc6362a58>
+	<plotBST.TreeNode object at 0x7fbdc635d470> [label=212 color=green]
+	<plotBST.TreeNode object at 0x7fbe1e1112b0> -> <plotBST.TreeNode object at 0x7fbdc635d470>
+	<plotBST.TreeNode object at 0x7fbdc635d7b8> [label=148 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d470> -> <plotBST.TreeNode object at 0x7fbdc635d7b8>
+	<plotBST.TreeNode object at 0x7fbdc6455630> [label=95 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d7b8> -> <plotBST.TreeNode object at 0x7fbdc6455630>
+	<plotBST.TreeNode object at 0x7fbdc6455080> [label=62 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455630> -> <plotBST.TreeNode object at 0x7fbdc6455080>
+	<plotBST.TreeNode object at 0x7fbdc6444be0> [label=41 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455080> -> <plotBST.TreeNode object at 0x7fbdc6444be0>
+	<plotBST.TreeNode object at 0x7fbdc6467978> [label=24 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444be0> -> <plotBST.TreeNode object at 0x7fbdc6467978>
+	<plotBST.TreeNode object at 0x7fbdcee6a588> [label=16 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467978> -> <plotBST.TreeNode object at 0x7fbdcee6a588>
+	<plotBST.TreeNode object at 0x7fbdc6441cc0> [label=10 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6a588> -> <plotBST.TreeNode object at 0x7fbdc6441cc0>
+	<plotBST.TreeNode object at 0x7fbdc6441eb8> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441cc0> -> <plotBST.TreeNode object at 0x7fbdc6441eb8>
+	<plotBST.TreeNode object at 0x7fbdc6441ba8> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441eb8> -> <plotBST.TreeNode object at 0x7fbdc6441ba8>
+	<plotBST.TreeNode object at 0x7fbdc636bb00> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441eb8> -> <plotBST.TreeNode object at 0x7fbdc636bb00>
+	<plotBST.TreeNode object at 0x7fbdc63724a8> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441cc0> -> <plotBST.TreeNode object at 0x7fbdc63724a8>
+	<plotBST.TreeNode object at 0x7fbdc63724e0> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63724a8> -> <plotBST.TreeNode object at 0x7fbdc63724e0>
+	<plotBST.TreeNode object at 0x7fbdc636b2e8> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6a588> -> <plotBST.TreeNode object at 0x7fbdc636b2e8>
+	<plotBST.TreeNode object at 0x7fbdc636b128> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b2e8> -> <plotBST.TreeNode object at 0x7fbdc636b128>
+	<plotBST.TreeNode object at 0x7fbdc636b080> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b128> -> <plotBST.TreeNode object at 0x7fbdc636b080>
+	<plotBST.TreeNode object at 0x7fbdc636fd30> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b2e8> -> <plotBST.TreeNode object at 0x7fbdc636fd30>
+	<plotBST.TreeNode object at 0x7fbdc636fd68> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636fd30> -> <plotBST.TreeNode object at 0x7fbdc636fd68>
+	<plotBST.TreeNode object at 0x7fbdc6372898> [label=8 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6467978> -> <plotBST.TreeNode object at 0x7fbdc6372898>
+	<plotBST.TreeNode object at 0x7fbdcee6a400> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372898> -> <plotBST.TreeNode object at 0x7fbdcee6a400>
+	<plotBST.TreeNode object at 0x7fbdc636f860> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6a400> -> <plotBST.TreeNode object at 0x7fbdc636f860>
+	<plotBST.TreeNode object at 0x7fbdc6369208> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f860> -> <plotBST.TreeNode object at 0x7fbdc6369208>
+	<plotBST.TreeNode object at 0x7fbdc636f7f0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f860> -> <plotBST.TreeNode object at 0x7fbdc636f7f0>
+	<plotBST.TreeNode object at 0x7fbdc6372470> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6a400> -> <plotBST.TreeNode object at 0x7fbdc6372470>
+	<plotBST.TreeNode object at 0x7fbdc63623c8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372470> -> <plotBST.TreeNode object at 0x7fbdc63623c8>
+	<plotBST.TreeNode object at 0x7fbdc6372b00> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372470> -> <plotBST.TreeNode object at 0x7fbdc6372b00>
+	<plotBST.TreeNode object at 0x7fbdc63728d0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372898> -> <plotBST.TreeNode object at 0x7fbdc63728d0>
+	<plotBST.TreeNode object at 0x7fbdc6372908> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63728d0> -> <plotBST.TreeNode object at 0x7fbdc6372908>
+	<plotBST.TreeNode object at 0x7fbdc6455a58> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372908> -> <plotBST.TreeNode object at 0x7fbdc6455a58>
+	<plotBST.TreeNode object at 0x7fbdc6350780> [label=16 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444be0> -> <plotBST.TreeNode object at 0x7fbdc6350780>
+	<plotBST.TreeNode object at 0x7fbdc6350e10> [label=9 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350780> -> <plotBST.TreeNode object at 0x7fbdc6350e10>
+	<plotBST.TreeNode object at 0x7fbdc6350240> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350e10> -> <plotBST.TreeNode object at 0x7fbdc6350240>
+	<plotBST.TreeNode object at 0x7fbdc6366320> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350240> -> <plotBST.TreeNode object at 0x7fbdc6366320>
+	<plotBST.TreeNode object at 0x7fbdc636b588> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366320> -> <plotBST.TreeNode object at 0x7fbdc636b588>
+	<plotBST.TreeNode object at 0x7fbdc6455358> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350240> -> <plotBST.TreeNode object at 0x7fbdc6455358>
+	<plotBST.TreeNode object at 0x7fbdc636b6d8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455358> -> <plotBST.TreeNode object at 0x7fbdc636b6d8>
+	<plotBST.TreeNode object at 0x7fbdc636fe80> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455358> -> <plotBST.TreeNode object at 0x7fbdc636fe80>
+	<plotBST.TreeNode object at 0x7fbdc6469ba8> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350e10> -> <plotBST.TreeNode object at 0x7fbdc6469ba8>
+	<plotBST.TreeNode object at 0x7fbdc6362550> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469ba8> -> <plotBST.TreeNode object at 0x7fbdc6362550>
+	<plotBST.TreeNode object at 0x7fbdc6362588> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362550> -> <plotBST.TreeNode object at 0x7fbdc6362588>
+	<plotBST.TreeNode object at 0x7fbdc636f550> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469ba8> -> <plotBST.TreeNode object at 0x7fbdc636f550>
+	<plotBST.TreeNode object at 0x7fbdc636f5f8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f550> -> <plotBST.TreeNode object at 0x7fbdc636f5f8>
+	<plotBST.TreeNode object at 0x7fbdc63501d0> [label=7 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350780> -> <plotBST.TreeNode object at 0x7fbdc63501d0>
+	<plotBST.TreeNode object at 0x7fbdc6455470> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63501d0> -> <plotBST.TreeNode object at 0x7fbdc6455470>
+	<plotBST.TreeNode object at 0x7fbdc6366438> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455470> -> <plotBST.TreeNode object at 0x7fbdc6366438>
+	<plotBST.TreeNode object at 0x7fbdc6366470> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366438> -> <plotBST.TreeNode object at 0x7fbdc6366470>
+	<plotBST.TreeNode object at 0x7fbdc6444828> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455470> -> <plotBST.TreeNode object at 0x7fbdc6444828>
+	<plotBST.TreeNode object at 0x7fbdc6444b70> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444828> -> <plotBST.TreeNode object at 0x7fbdc6444b70>
+	<plotBST.TreeNode object at 0x7fbdc6350fd0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63501d0> -> <plotBST.TreeNode object at 0x7fbdc6350fd0>
+	<plotBST.TreeNode object at 0x7fbdc6362630> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350fd0> -> <plotBST.TreeNode object at 0x7fbdc6362630>
+	<plotBST.TreeNode object at 0x7fbdc63727f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362630> -> <plotBST.TreeNode object at 0x7fbdc63727f0>
+	<plotBST.TreeNode object at 0x7fbdc6372d68> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350fd0> -> <plotBST.TreeNode object at 0x7fbdc6372d68>
+	<plotBST.TreeNode object at 0x7fbdc6372e80> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372d68> -> <plotBST.TreeNode object at 0x7fbdc6372e80>
+	<plotBST.TreeNode object at 0x7fbdc6347f28> [label=19 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455080> -> <plotBST.TreeNode object at 0x7fbdc6347f28>
+	<plotBST.TreeNode object at 0x7fbdc6469940> [label=8 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347f28> -> <plotBST.TreeNode object at 0x7fbdc6469940>
+	<plotBST.TreeNode object at 0x7fbdc6455860> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469940> -> <plotBST.TreeNode object at 0x7fbdc6455860>
+	<plotBST.TreeNode object at 0x7fbdc6457b70> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455860> -> <plotBST.TreeNode object at 0x7fbdc6457b70>
+	<plotBST.TreeNode object at 0x7fbdc6366080> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457b70> -> <plotBST.TreeNode object at 0x7fbdc6366080>
+	<plotBST.TreeNode object at 0x7fbdc636f4a8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366080> -> <plotBST.TreeNode object at 0x7fbdc636f4a8>
+	<plotBST.TreeNode object at 0x7fbdc64694e0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455860> -> <plotBST.TreeNode object at 0x7fbdc64694e0>
+	<plotBST.TreeNode object at 0x7fbdc635f7f0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64694e0> -> <plotBST.TreeNode object at 0x7fbdc635f7f0>
+	<plotBST.TreeNode object at 0x7fbdc635f828> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f7f0> -> <plotBST.TreeNode object at 0x7fbdc635f828>
+	<plotBST.TreeNode object at 0x7fbdc635d5f8> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469940> -> <plotBST.TreeNode object at 0x7fbdc635d5f8>
+	<plotBST.TreeNode object at 0x7fbdc635d2e8> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d5f8> -> <plotBST.TreeNode object at 0x7fbdc635d2e8>
+	<plotBST.TreeNode object at 0x7fbdc636b860> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d2e8> -> <plotBST.TreeNode object at 0x7fbdc636b860>
+	<plotBST.TreeNode object at 0x7fbdc636b898> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b860> -> <plotBST.TreeNode object at 0x7fbdc636b898>
+	<plotBST.TreeNode object at 0x7fbdc6456748> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d2e8> -> <plotBST.TreeNode object at 0x7fbdc6456748>
+	<plotBST.TreeNode object at 0x7fbdc64567b8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456748> -> <plotBST.TreeNode object at 0x7fbdc64567b8>
+	<plotBST.TreeNode object at 0x7fbdcee6a898> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d5f8> -> <plotBST.TreeNode object at 0x7fbdcee6a898>
+	<plotBST.TreeNode object at 0x7fbdc63660f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6a898> -> <plotBST.TreeNode object at 0x7fbdc63660f0>
+	<plotBST.TreeNode object at 0x7fbdc63667f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63660f0> -> <plotBST.TreeNode object at 0x7fbdc63667f0>
+	<plotBST.TreeNode object at 0x7fbdc6366be0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6a898> -> <plotBST.TreeNode object at 0x7fbdc6366be0>
+	<plotBST.TreeNode object at 0x7fbdc6369ac8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366be0> -> <plotBST.TreeNode object at 0x7fbdc6369ac8>
+	<plotBST.TreeNode object at 0x7fbdc635f1d0> [label=10 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347f28> -> <plotBST.TreeNode object at 0x7fbdc635f1d0>
+	<plotBST.TreeNode object at 0x7fbdc635f208> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f1d0> -> <plotBST.TreeNode object at 0x7fbdc635f208>
+	<plotBST.TreeNode object at 0x7fbdc6455160> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f208> -> <plotBST.TreeNode object at 0x7fbdc6455160>
+	<plotBST.TreeNode object at 0x7fbdc6455a90> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455160> -> <plotBST.TreeNode object at 0x7fbdc6455a90>
+	<plotBST.TreeNode object at 0x7fbdc64699e8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455a90> -> <plotBST.TreeNode object at 0x7fbdc64699e8>
+	<plotBST.TreeNode object at 0x7fbdc6467ac8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455a90> -> <plotBST.TreeNode object at 0x7fbdc6467ac8>
+	<plotBST.TreeNode object at 0x7fbdc6362400> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455160> -> <plotBST.TreeNode object at 0x7fbdc6362400>
+	<plotBST.TreeNode object at 0x7fbdc6362438> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362400> -> <plotBST.TreeNode object at 0x7fbdc6362438>
+	<plotBST.TreeNode object at 0x7fbdc6469860> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f208> -> <plotBST.TreeNode object at 0x7fbdc6469860>
+	<plotBST.TreeNode object at 0x7fbdc6369c18> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469860> -> <plotBST.TreeNode object at 0x7fbdc6369c18>
+	<plotBST.TreeNode object at 0x7fbdc6362b38> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369c18> -> <plotBST.TreeNode object at 0x7fbdc6362b38>
+	<plotBST.TreeNode object at 0x7fbdc6457b38> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369c18> -> <plotBST.TreeNode object at 0x7fbdc6457b38>
+	<plotBST.TreeNode object at 0x7fbdc6362198> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f1d0> -> <plotBST.TreeNode object at 0x7fbdc6362198>
+	<plotBST.TreeNode object at 0x7fbdc635da90> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362198> -> <plotBST.TreeNode object at 0x7fbdc635da90>
+	<plotBST.TreeNode object at 0x7fbdc635dac8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635da90> -> <plotBST.TreeNode object at 0x7fbdc635dac8>
+	<plotBST.TreeNode object at 0x7fbdc635db00> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635dac8> -> <plotBST.TreeNode object at 0x7fbdc635db00>
+	<plotBST.TreeNode object at 0x7fbdc635fc50> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362198> -> <plotBST.TreeNode object at 0x7fbdc635fc50>
+	<plotBST.TreeNode object at 0x7fbdc6372278> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635fc50> -> <plotBST.TreeNode object at 0x7fbdc6372278>
+	<plotBST.TreeNode object at 0x7fbdc63722b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372278> -> <plotBST.TreeNode object at 0x7fbdc63722b0>
+	<plotBST.TreeNode object at 0x7fbdc635d860> [label=32 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455630> -> <plotBST.TreeNode object at 0x7fbdc635d860>
+	<plotBST.TreeNode object at 0x7fbdc635dd68> [label=17 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d860> -> <plotBST.TreeNode object at 0x7fbdc635dd68>
+	<plotBST.TreeNode object at 0x7fbdc6469828> [label=10 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635dd68> -> <plotBST.TreeNode object at 0x7fbdc6469828>
+	<plotBST.TreeNode object at 0x7fbdc6469550> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469828> -> <plotBST.TreeNode object at 0x7fbdc6469550>
+	<plotBST.TreeNode object at 0x7fbdc6469358> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469550> -> <plotBST.TreeNode object at 0x7fbdc6469358>
+	<plotBST.TreeNode object at 0x7fbdc6350828> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469358> -> <plotBST.TreeNode object at 0x7fbdc6350828>
+	<plotBST.TreeNode object at 0x7fbdc6372b70> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350828> -> <plotBST.TreeNode object at 0x7fbdc6372b70>
+	<plotBST.TreeNode object at 0x7fbdc636ff98> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469358> -> <plotBST.TreeNode object at 0x7fbdc636ff98>
+	<plotBST.TreeNode object at 0x7fbdc636f0f0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636ff98> -> <plotBST.TreeNode object at 0x7fbdc636f0f0>
+	<plotBST.TreeNode object at 0x7fbdc636fe48> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636ff98> -> <plotBST.TreeNode object at 0x7fbdc636fe48>
+	<plotBST.TreeNode object at 0x7fbdc6444940> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469550> -> <plotBST.TreeNode object at 0x7fbdc6444940>
+	<plotBST.TreeNode object at 0x7fbdc6444978> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444940> -> <plotBST.TreeNode object at 0x7fbdc6444978>
+	<plotBST.TreeNode object at 0x7fbdc64449b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444978> -> <plotBST.TreeNode object at 0x7fbdc64449b0>
+	<plotBST.TreeNode object at 0x7fbdc6456588> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469828> -> <plotBST.TreeNode object at 0x7fbdc6456588>
+	<plotBST.TreeNode object at 0x7fbdc6362f98> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456588> -> <plotBST.TreeNode object at 0x7fbdc6362f98>
+	<plotBST.TreeNode object at 0x7fbdc635d438> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362f98> -> <plotBST.TreeNode object at 0x7fbdc635d438>
+	<plotBST.TreeNode object at 0x7fbdc636f2e8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d438> -> <plotBST.TreeNode object at 0x7fbdc636f2e8>
+	<plotBST.TreeNode object at 0x7fbdc636ba90> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456588> -> <plotBST.TreeNode object at 0x7fbdc636ba90>
+	<plotBST.TreeNode object at 0x7fbdc636bac8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636ba90> -> <plotBST.TreeNode object at 0x7fbdc636bac8>
+	<plotBST.TreeNode object at 0x7fbdc636ba58> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636bac8> -> <plotBST.TreeNode object at 0x7fbdc636ba58>
+	<plotBST.TreeNode object at 0x7fbdc6366b00> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635dd68> -> <plotBST.TreeNode object at 0x7fbdc6366b00>
+	<plotBST.TreeNode object at 0x7fbdc6372f60> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366b00> -> <plotBST.TreeNode object at 0x7fbdc6372f60>
+	<plotBST.TreeNode object at 0x7fbdc6372f98> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372f60> -> <plotBST.TreeNode object at 0x7fbdc6372f98>
+	<plotBST.TreeNode object at 0x7fbdc6372fd0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372f98> -> <plotBST.TreeNode object at 0x7fbdc6372fd0>
+	<plotBST.TreeNode object at 0x7fbdc6350400> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372fd0> -> <plotBST.TreeNode object at 0x7fbdc6350400>
+	<plotBST.TreeNode object at 0x7fbdc635fe10> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366b00> -> <plotBST.TreeNode object at 0x7fbdc635fe10>
+	<plotBST.TreeNode object at 0x7fbdc635fc18> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635fe10> -> <plotBST.TreeNode object at 0x7fbdc635fc18>
+	<plotBST.TreeNode object at 0x7fbdc635f710> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635fc18> -> <plotBST.TreeNode object at 0x7fbdc635f710>
+	<plotBST.TreeNode object at 0x7fbdc635f940> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f710> -> <plotBST.TreeNode object at 0x7fbdc635f940>
+	<plotBST.TreeNode object at 0x7fbdc6441e48> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635fe10> -> <plotBST.TreeNode object at 0x7fbdc6441e48>
+	<plotBST.TreeNode object at 0x7fbdc6441e80> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441e48> -> <plotBST.TreeNode object at 0x7fbdc6441e80>
+	<plotBST.TreeNode object at 0x7fbdc635fcf8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441e80> -> <plotBST.TreeNode object at 0x7fbdc635fcf8>
+	<plotBST.TreeNode object at 0x7fbdc636f6a0> [label=14 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d860> -> <plotBST.TreeNode object at 0x7fbdc636f6a0>
+	<plotBST.TreeNode object at 0x7fbdc63690b8> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f6a0> -> <plotBST.TreeNode object at 0x7fbdc63690b8>
+	<plotBST.TreeNode object at 0x7fbdc6441748> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63690b8> -> <plotBST.TreeNode object at 0x7fbdc6441748>
+	<plotBST.TreeNode object at 0x7fbdc635f128> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441748> -> <plotBST.TreeNode object at 0x7fbdc635f128>
+	<plotBST.TreeNode object at 0x7fbdc635f160> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f128> -> <plotBST.TreeNode object at 0x7fbdc635f160>
+	<plotBST.TreeNode object at 0x7fbdc635f198> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f160> -> <plotBST.TreeNode object at 0x7fbdc635f198>
+	<plotBST.TreeNode object at 0x7fbdc6441ef0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441748> -> <plotBST.TreeNode object at 0x7fbdc6441ef0>
+	<plotBST.TreeNode object at 0x7fbdc635d978> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441ef0> -> <plotBST.TreeNode object at 0x7fbdc635d978>
+	<plotBST.TreeNode object at 0x7fbdc635def0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d978> -> <plotBST.TreeNode object at 0x7fbdc635def0>
+	<plotBST.TreeNode object at 0x7fbdc6362048> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d978> -> <plotBST.TreeNode object at 0x7fbdc6362048>
+	<plotBST.TreeNode object at 0x7fbdc645e358> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63690b8> -> <plotBST.TreeNode object at 0x7fbdc645e358>
+	<plotBST.TreeNode object at 0x7fbdc6369358> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e358> -> <plotBST.TreeNode object at 0x7fbdc6369358>
+	<plotBST.TreeNode object at 0x7fbdc6369390> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369358> -> <plotBST.TreeNode object at 0x7fbdc6369390>
+	<plotBST.TreeNode object at 0x7fbdc63693c8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369390> -> <plotBST.TreeNode object at 0x7fbdc63693c8>
+	<plotBST.TreeNode object at 0x7fbdc636fcc0> [label=8 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f6a0> -> <plotBST.TreeNode object at 0x7fbdc636fcc0>
+	<plotBST.TreeNode object at 0x7fbdc636fcf8> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636fcc0> -> <plotBST.TreeNode object at 0x7fbdc636fcf8>
+	<plotBST.TreeNode object at 0x7fbdc6441828> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636fcf8> -> <plotBST.TreeNode object at 0x7fbdc6441828>
+	<plotBST.TreeNode object at 0x7fbdc635d7f0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441828> -> <plotBST.TreeNode object at 0x7fbdc635d7f0>
+	<plotBST.TreeNode object at 0x7fbdc6372ef0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d7f0> -> <plotBST.TreeNode object at 0x7fbdc6372ef0>
+	<plotBST.TreeNode object at 0x7fbdc6469978> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441828> -> <plotBST.TreeNode object at 0x7fbdc6469978>
+	<plotBST.TreeNode object at 0x7fbdc6369400> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469978> -> <plotBST.TreeNode object at 0x7fbdc6369400>
+	<plotBST.TreeNode object at 0x7fbdc6366400> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636fcf8> -> <plotBST.TreeNode object at 0x7fbdc6366400>
+	<plotBST.TreeNode object at 0x7fbdc645e2e8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366400> -> <plotBST.TreeNode object at 0x7fbdc645e2e8>
+	<plotBST.TreeNode object at 0x7fbdc6444a20> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e2e8> -> <plotBST.TreeNode object at 0x7fbdc6444a20>
+	<plotBST.TreeNode object at 0x7fbdc6366898> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366400> -> <plotBST.TreeNode object at 0x7fbdc6366898>
+	<plotBST.TreeNode object at 0x7fbdc63664a8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366898> -> <plotBST.TreeNode object at 0x7fbdc63664a8>
+	<plotBST.TreeNode object at 0x7fbdcee6a748> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636fcc0> -> <plotBST.TreeNode object at 0x7fbdcee6a748>
+	<plotBST.TreeNode object at 0x7fbdc64565c0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6a748> -> <plotBST.TreeNode object at 0x7fbdc64565c0>
+	<plotBST.TreeNode object at 0x7fbdc6369b00> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64565c0> -> <plotBST.TreeNode object at 0x7fbdc6369b00>
+	<plotBST.TreeNode object at 0x7fbdc6369b38> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369b00> -> <plotBST.TreeNode object at 0x7fbdc6369b38>
+	<plotBST.TreeNode object at 0x7fbdc635dc88> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64565c0> -> <plotBST.TreeNode object at 0x7fbdc635dc88>
+	<plotBST.TreeNode object at 0x7fbdc635de10> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635dc88> -> <plotBST.TreeNode object at 0x7fbdc635de10>
+	<plotBST.TreeNode object at 0x7fbdc6456978> [label=51 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d7b8> -> <plotBST.TreeNode object at 0x7fbdc6456978>
+	<plotBST.TreeNode object at 0x7fbdc6362390> [label=25 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456978> -> <plotBST.TreeNode object at 0x7fbdc6362390>
+	<plotBST.TreeNode object at 0x7fbdc6362cf8> [label=12 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362390> -> <plotBST.TreeNode object at 0x7fbdc6362cf8>
+	<plotBST.TreeNode object at 0x7fbdc6469198> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362cf8> -> <plotBST.TreeNode object at 0x7fbdc6469198>
+	<plotBST.TreeNode object at 0x7fbdcee6a8d0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469198> -> <plotBST.TreeNode object at 0x7fbdcee6a8d0>
+	<plotBST.TreeNode object at 0x7fbdc6457cc0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6a8d0> -> <plotBST.TreeNode object at 0x7fbdc6457cc0>
+	<plotBST.TreeNode object at 0x7fbdc63695f8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457cc0> -> <plotBST.TreeNode object at 0x7fbdc63695f8>
+	<plotBST.TreeNode object at 0x7fbdc6457a20> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457cc0> -> <plotBST.TreeNode object at 0x7fbdc6457a20>
+	<plotBST.TreeNode object at 0x7fbdc635db70> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457a20> -> <plotBST.TreeNode object at 0x7fbdc635db70>
+	<plotBST.TreeNode object at 0x7fbdc6469a20> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469198> -> <plotBST.TreeNode object at 0x7fbdc6469a20>
+	<plotBST.TreeNode object at 0x7fbdc6369940> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469a20> -> <plotBST.TreeNode object at 0x7fbdc6369940>
+	<plotBST.TreeNode object at 0x7fbdc6469e80> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369940> -> <plotBST.TreeNode object at 0x7fbdc6469e80>
+	<plotBST.TreeNode object at 0x7fbdc6469668> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469e80> -> <plotBST.TreeNode object at 0x7fbdc6469668>
+	<plotBST.TreeNode object at 0x7fbdc6369978> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369940> -> <plotBST.TreeNode object at 0x7fbdc6369978>
+	<plotBST.TreeNode object at 0x7fbdc6369a90> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369978> -> <plotBST.TreeNode object at 0x7fbdc6369a90>
+	<plotBST.TreeNode object at 0x7fbdc6372358> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469a20> -> <plotBST.TreeNode object at 0x7fbdc6372358>
+	<plotBST.TreeNode object at 0x7fbdc6372828> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372358> -> <plotBST.TreeNode object at 0x7fbdc6372828>
+	<plotBST.TreeNode object at 0x7fbdc6441f60> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362cf8> -> <plotBST.TreeNode object at 0x7fbdc6441f60>
+	<plotBST.TreeNode object at 0x7fbdc635d6a0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441f60> -> <plotBST.TreeNode object at 0x7fbdc635d6a0>
+	<plotBST.TreeNode object at 0x7fbdc635dba8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d6a0> -> <plotBST.TreeNode object at 0x7fbdc635dba8>
+	<plotBST.TreeNode object at 0x7fbdc635dbe0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635dba8> -> <plotBST.TreeNode object at 0x7fbdc635dbe0>
+	<plotBST.TreeNode object at 0x7fbdc635dc18> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635dbe0> -> <plotBST.TreeNode object at 0x7fbdc635dc18>
+	<plotBST.TreeNode object at 0x7fbdc6457a58> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d6a0> -> <plotBST.TreeNode object at 0x7fbdc6457a58>
+	<plotBST.TreeNode object at 0x7fbdc64577f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457a58> -> <plotBST.TreeNode object at 0x7fbdc64577f0>
+	<plotBST.TreeNode object at 0x7fbdc6457828> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64577f0> -> <plotBST.TreeNode object at 0x7fbdc6457828>
+	<plotBST.TreeNode object at 0x7fbdc6441a58> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441f60> -> <plotBST.TreeNode object at 0x7fbdc6441a58>
+	<plotBST.TreeNode object at 0x7fbdc6455198> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441a58> -> <plotBST.TreeNode object at 0x7fbdc6455198>
+	<plotBST.TreeNode object at 0x7fbdc635d3c8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455198> -> <plotBST.TreeNode object at 0x7fbdc635d3c8>
+	<plotBST.TreeNode object at 0x7fbdc636b1d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d3c8> -> <plotBST.TreeNode object at 0x7fbdc636b1d0>
+	<plotBST.TreeNode object at 0x7fbdc6350390> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455198> -> <plotBST.TreeNode object at 0x7fbdc6350390>
+	<plotBST.TreeNode object at 0x7fbdc63502e8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350390> -> <plotBST.TreeNode object at 0x7fbdc63502e8>
+	<plotBST.TreeNode object at 0x7fbdc63699b0> [label=12 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362390> -> <plotBST.TreeNode object at 0x7fbdc63699b0>
+	<plotBST.TreeNode object at 0x7fbdc63699e8> [label=11 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63699b0> -> <plotBST.TreeNode object at 0x7fbdc63699e8>
+	<plotBST.TreeNode object at 0x7fbdc6469d30> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63699e8> -> <plotBST.TreeNode object at 0x7fbdc6469d30>
+	<plotBST.TreeNode object at 0x7fbdc6469c50> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469d30> -> <plotBST.TreeNode object at 0x7fbdc6469c50>
+	<plotBST.TreeNode object at 0x7fbdc635d6d8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469c50> -> <plotBST.TreeNode object at 0x7fbdc635d6d8>
+	<plotBST.TreeNode object at 0x7fbdc6372550> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d6d8> -> <plotBST.TreeNode object at 0x7fbdc6372550>
+	<plotBST.TreeNode object at 0x7fbdc635de80> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469c50> -> <plotBST.TreeNode object at 0x7fbdc635de80>
+	<plotBST.TreeNode object at 0x7fbdc635deb8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635de80> -> <plotBST.TreeNode object at 0x7fbdc635deb8>
+	<plotBST.TreeNode object at 0x7fbdc6444748> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469d30> -> <plotBST.TreeNode object at 0x7fbdc6444748>
+	<plotBST.TreeNode object at 0x7fbdc6366550> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6444748> -> <plotBST.TreeNode object at 0x7fbdc6366550>
+	<plotBST.TreeNode object at 0x7fbdc6366588> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366550> -> <plotBST.TreeNode object at 0x7fbdc6366588>
+	<plotBST.TreeNode object at 0x7fbdc636f320> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6444748> -> <plotBST.TreeNode object at 0x7fbdc636f320>
+	<plotBST.TreeNode object at 0x7fbdc636f358> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f320> -> <plotBST.TreeNode object at 0x7fbdc636f358>
+	<plotBST.TreeNode object at 0x7fbdc636b5c0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63699e8> -> <plotBST.TreeNode object at 0x7fbdc636b5c0>
+	<plotBST.TreeNode object at 0x7fbdc636b668> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b5c0> -> <plotBST.TreeNode object at 0x7fbdc636b668>
+	<plotBST.TreeNode object at 0x7fbdc6441d68> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b668> -> <plotBST.TreeNode object at 0x7fbdc6441d68>
+	<plotBST.TreeNode object at 0x7fbdc636feb8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441d68> -> <plotBST.TreeNode object at 0x7fbdc636feb8>
+	<plotBST.TreeNode object at 0x7fbdc64565f8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b668> -> <plotBST.TreeNode object at 0x7fbdc64565f8>
+	<plotBST.TreeNode object at 0x7fbdc636f7b8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64565f8> -> <plotBST.TreeNode object at 0x7fbdc636f7b8>
+	<plotBST.TreeNode object at 0x7fbdc6469ef0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63699b0> -> <plotBST.TreeNode object at 0x7fbdc6469ef0>
+	<plotBST.TreeNode object at 0x7fbdc636bf28> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469ef0> -> <plotBST.TreeNode object at 0x7fbdc636bf28>
+	<plotBST.TreeNode object at 0x7fbdc636b208> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636bf28> -> <plotBST.TreeNode object at 0x7fbdc636b208>
+	<plotBST.TreeNode object at 0x7fbdc636b240> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b208> -> <plotBST.TreeNode object at 0x7fbdc636b240>
+	<plotBST.TreeNode object at 0x7fbdc636fbe0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b240> -> <plotBST.TreeNode object at 0x7fbdc636fbe0>
+	<plotBST.TreeNode object at 0x7fbdc64692e8> [label=25 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456978> -> <plotBST.TreeNode object at 0x7fbdc64692e8>
+	<plotBST.TreeNode object at 0x7fbdc6362080> [label=17 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64692e8> -> <plotBST.TreeNode object at 0x7fbdc6362080>
+	<plotBST.TreeNode object at 0x7fbdc6362fd0> [label=10 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362080> -> <plotBST.TreeNode object at 0x7fbdc6362fd0>
+	<plotBST.TreeNode object at 0x7fbdc6362d68> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362fd0> -> <plotBST.TreeNode object at 0x7fbdc6362d68>
+	<plotBST.TreeNode object at 0x7fbdc6469080> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362d68> -> <plotBST.TreeNode object at 0x7fbdc6469080>
+	<plotBST.TreeNode object at 0x7fbdc636b160> [label=5 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469080> -> <plotBST.TreeNode object at 0x7fbdc636b160>
+	<plotBST.TreeNode object at 0x7fbdc636b198> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b160> -> <plotBST.TreeNode object at 0x7fbdc636b198>
+	<plotBST.TreeNode object at 0x7fbdc6347978> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b160> -> <plotBST.TreeNode object at 0x7fbdc6347978>
+	<plotBST.TreeNode object at 0x7fbdc63690f0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362fd0> -> <plotBST.TreeNode object at 0x7fbdc63690f0>
+	<plotBST.TreeNode object at 0x7fbdc6369128> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63690f0> -> <plotBST.TreeNode object at 0x7fbdc6369128>
+	<plotBST.TreeNode object at 0x7fbdc64448d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369128> -> <plotBST.TreeNode object at 0x7fbdc64448d0>
+	<plotBST.TreeNode object at 0x7fbdc6444908> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64448d0> -> <plotBST.TreeNode object at 0x7fbdc6444908>
+	<plotBST.TreeNode object at 0x7fbdc6369160> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369128> -> <plotBST.TreeNode object at 0x7fbdc6369160>
+	<plotBST.TreeNode object at 0x7fbdc6369198> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369160> -> <plotBST.TreeNode object at 0x7fbdc6369198>
+	<plotBST.TreeNode object at 0x7fbdcee6aac8> [label=7 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362080> -> <plotBST.TreeNode object at 0x7fbdcee6aac8>
+	<plotBST.TreeNode object at 0x7fbdc6469240> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6aac8> -> <plotBST.TreeNode object at 0x7fbdc6469240>
+	<plotBST.TreeNode object at 0x7fbdc635fb70> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469240> -> <plotBST.TreeNode object at 0x7fbdc635fb70>
+	<plotBST.TreeNode object at 0x7fbdc6457cf8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469240> -> <plotBST.TreeNode object at 0x7fbdc6457cf8>
+	<plotBST.TreeNode object at 0x7fbdc6457d30> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457cf8> -> <plotBST.TreeNode object at 0x7fbdc6457d30>
+	<plotBST.TreeNode object at 0x7fbdc6369048> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457d30> -> <plotBST.TreeNode object at 0x7fbdc6369048>
+	<plotBST.TreeNode object at 0x7fbdc6456e10> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6aac8> -> <plotBST.TreeNode object at 0x7fbdc6456e10>
+	<plotBST.TreeNode object at 0x7fbdc6452278> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456e10> -> <plotBST.TreeNode object at 0x7fbdc6452278>
+	<plotBST.TreeNode object at 0x7fbdc635f9e8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6452278> -> <plotBST.TreeNode object at 0x7fbdc635f9e8>
+	<plotBST.TreeNode object at 0x7fbdc635ff60> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f9e8> -> <plotBST.TreeNode object at 0x7fbdc635ff60>
+	<plotBST.TreeNode object at 0x7fbdc6441d30> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456e10> -> <plotBST.TreeNode object at 0x7fbdc6441d30>
+	<plotBST.TreeNode object at 0x7fbdc6441908> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441d30> -> <plotBST.TreeNode object at 0x7fbdc6441908>
+	<plotBST.TreeNode object at 0x7fbdc6366cf8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441908> -> <plotBST.TreeNode object at 0x7fbdc6366cf8>
+	<plotBST.TreeNode object at 0x7fbdc6366780> [label=7 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64692e8> -> <plotBST.TreeNode object at 0x7fbdc6366780>
+	<plotBST.TreeNode object at 0x7fbdc635d278> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366780> -> <plotBST.TreeNode object at 0x7fbdc635d278>
+	<plotBST.TreeNode object at 0x7fbdc635d2b0> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d278> -> <plotBST.TreeNode object at 0x7fbdc635d2b0>
+	<plotBST.TreeNode object at 0x7fbdc6504080> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d2b0> -> <plotBST.TreeNode object at 0x7fbdc6504080>
+	<plotBST.TreeNode object at 0x7fbdc63e0080> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6504080> -> <plotBST.TreeNode object at 0x7fbdc63e0080>
+	<plotBST.TreeNode object at 0x7fbdc64447f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63e0080> -> <plotBST.TreeNode object at 0x7fbdc64447f0>
+	<plotBST.TreeNode object at 0x7fbdc636bb38> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63e0080> -> <plotBST.TreeNode object at 0x7fbdc636bb38>
+	<plotBST.TreeNode object at 0x7fbdc63505f8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d2b0> -> <plotBST.TreeNode object at 0x7fbdc63505f8>
+	<plotBST.TreeNode object at 0x7fbdc64676a0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63505f8> -> <plotBST.TreeNode object at 0x7fbdc64676a0>
+	<plotBST.TreeNode object at 0x7fbdc64676d8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64676a0> -> <plotBST.TreeNode object at 0x7fbdc64676d8>
+	<plotBST.TreeNode object at 0x7fbdc636b438> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63505f8> -> <plotBST.TreeNode object at 0x7fbdc636b438>
+	<plotBST.TreeNode object at 0x7fbdc636b470> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b438> -> <plotBST.TreeNode object at 0x7fbdc636b470>
+	<plotBST.TreeNode object at 0x7fbdc64449e8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366780> -> <plotBST.TreeNode object at 0x7fbdc64449e8>
+	<plotBST.TreeNode object at 0x7fbdc636b5f8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64449e8> -> <plotBST.TreeNode object at 0x7fbdc636b5f8>
+	<plotBST.TreeNode object at 0x7fbdc63500f0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b5f8> -> <plotBST.TreeNode object at 0x7fbdc63500f0>
+	<plotBST.TreeNode object at 0x7fbdc6350080> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63500f0> -> <plotBST.TreeNode object at 0x7fbdc6350080>
+	<plotBST.TreeNode object at 0x7fbdc6350198> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350080> -> <plotBST.TreeNode object at 0x7fbdc6350198>
+	<plotBST.TreeNode object at 0x7fbdc64699b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b5f8> -> <plotBST.TreeNode object at 0x7fbdc64699b0>
+	<plotBST.TreeNode object at 0x7fbdc635da20> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64699b0> -> <plotBST.TreeNode object at 0x7fbdc635da20>
+	<plotBST.TreeNode object at 0x7fbdc63669b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64449e8> -> <plotBST.TreeNode object at 0x7fbdc63669b0>
+	<plotBST.TreeNode object at 0x7fbdc6455c50> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63669b0> -> <plotBST.TreeNode object at 0x7fbdc6455c50>
+	<plotBST.TreeNode object at 0x7fbdc6455828> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455c50> -> <plotBST.TreeNode object at 0x7fbdc6455828>
+	<plotBST.TreeNode object at 0x7fbdc6455ba8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455828> -> <plotBST.TreeNode object at 0x7fbdc6455ba8>
+	<plotBST.TreeNode object at 0x7fbdc635f860> [label=62 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d470> -> <plotBST.TreeNode object at 0x7fbdc635f860>
+	<plotBST.TreeNode object at 0x7fbdc635f320> [label=40 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f860> -> <plotBST.TreeNode object at 0x7fbdc635f320>
+	<plotBST.TreeNode object at 0x7fbdc6441dd8> [label=24 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f320> -> <plotBST.TreeNode object at 0x7fbdc6441dd8>
+	<plotBST.TreeNode object at 0x7fbdc6366668> [label=15 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441dd8> -> <plotBST.TreeNode object at 0x7fbdc6366668>
+	<plotBST.TreeNode object at 0x7fbdc6362748> [label=9 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366668> -> <plotBST.TreeNode object at 0x7fbdc6362748>
+	<plotBST.TreeNode object at 0x7fbdc63696d8> [label=7 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362748> -> <plotBST.TreeNode object at 0x7fbdc63696d8>
+	<plotBST.TreeNode object at 0x7fbdc6350630> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63696d8> -> <plotBST.TreeNode object at 0x7fbdc6350630>
+	<plotBST.TreeNode object at 0x7fbdc6457940> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350630> -> <plotBST.TreeNode object at 0x7fbdc6457940>
+	<plotBST.TreeNode object at 0x7fbdcee6a940> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457940> -> <plotBST.TreeNode object at 0x7fbdcee6a940>
+	<plotBST.TreeNode object at 0x7fbdc6350748> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350630> -> <plotBST.TreeNode object at 0x7fbdc6350748>
+	<plotBST.TreeNode object at 0x7fbdc635f438> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350748> -> <plotBST.TreeNode object at 0x7fbdc635f438>
+	<plotBST.TreeNode object at 0x7fbdc6369e10> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350748> -> <plotBST.TreeNode object at 0x7fbdc6369e10>
+	<plotBST.TreeNode object at 0x7fbdc6369518> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63696d8> -> <plotBST.TreeNode object at 0x7fbdc6369518>
+	<plotBST.TreeNode object at 0x7fbdc6369550> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369518> -> <plotBST.TreeNode object at 0x7fbdc6369550>
+	<plotBST.TreeNode object at 0x7fbdc6369588> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369550> -> <plotBST.TreeNode object at 0x7fbdc6369588>
+	<plotBST.TreeNode object at 0x7fbdc6467a90> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362748> -> <plotBST.TreeNode object at 0x7fbdc6467a90>
+	<plotBST.TreeNode object at 0x7fbdc6467908> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467a90> -> <plotBST.TreeNode object at 0x7fbdc6467908>
+	<plotBST.TreeNode object at 0x7fbdc6467828> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6467908> -> <plotBST.TreeNode object at 0x7fbdc6467828>
+	<plotBST.TreeNode object at 0x7fbdc6362668> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467828> -> <plotBST.TreeNode object at 0x7fbdc6362668>
+	<plotBST.TreeNode object at 0x7fbdc635f550> [label=6 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366668> -> <plotBST.TreeNode object at 0x7fbdc635f550>
+	<plotBST.TreeNode object at 0x7fbdc6366e80> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f550> -> <plotBST.TreeNode object at 0x7fbdc6366e80>
+	<plotBST.TreeNode object at 0x7fbdc636f9e8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366e80> -> <plotBST.TreeNode object at 0x7fbdc636f9e8>
+	<plotBST.TreeNode object at 0x7fbdc636fa20> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f9e8> -> <plotBST.TreeNode object at 0x7fbdc636fa20>
+	<plotBST.TreeNode object at 0x7fbdc6457ba8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636fa20> -> <plotBST.TreeNode object at 0x7fbdc6457ba8>
+	<plotBST.TreeNode object at 0x7fbdc6347828> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636fa20> -> <plotBST.TreeNode object at 0x7fbdc6347828>
+	<plotBST.TreeNode object at 0x7fbdc635fb00> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f550> -> <plotBST.TreeNode object at 0x7fbdc635fb00>
+	<plotBST.TreeNode object at 0x7fbdc6362f60> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635fb00> -> <plotBST.TreeNode object at 0x7fbdc6362f60>
+	<plotBST.TreeNode object at 0x7fbdc6456710> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362f60> -> <plotBST.TreeNode object at 0x7fbdc6456710>
+	<plotBST.TreeNode object at 0x7fbdc6456b38> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456710> -> <plotBST.TreeNode object at 0x7fbdc6456b38>
+	<plotBST.TreeNode object at 0x7fbdc635f780> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362f60> -> <plotBST.TreeNode object at 0x7fbdc635f780>
+	<plotBST.TreeNode object at 0x7fbdc635f7b8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f780> -> <plotBST.TreeNode object at 0x7fbdc635f7b8>
+	<plotBST.TreeNode object at 0x7fbdc6362be0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635fb00> -> <plotBST.TreeNode object at 0x7fbdc6362be0>
+	<plotBST.TreeNode object at 0x7fbdc6372518> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362be0> -> <plotBST.TreeNode object at 0x7fbdc6372518>
+	<plotBST.TreeNode object at 0x7fbdc63725c0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6372518> -> <plotBST.TreeNode object at 0x7fbdc63725c0>
+	<plotBST.TreeNode object at 0x7fbdc6441978> [label=9 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441dd8> -> <plotBST.TreeNode object at 0x7fbdc6441978>
+	<plotBST.TreeNode object at 0x7fbdc64554a8> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441978> -> <plotBST.TreeNode object at 0x7fbdc64554a8>
+	<plotBST.TreeNode object at 0x7fbdc63504e0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64554a8> -> <plotBST.TreeNode object at 0x7fbdc63504e0>
+	<plotBST.TreeNode object at 0x7fbdc6469320> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63504e0> -> <plotBST.TreeNode object at 0x7fbdc6469320>
+	<plotBST.TreeNode object at 0x7fbdc6469cf8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469320> -> <plotBST.TreeNode object at 0x7fbdc6469cf8>
+	<plotBST.TreeNode object at 0x7fbdc63506a0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63504e0> -> <plotBST.TreeNode object at 0x7fbdc63506a0>
+	<plotBST.TreeNode object at 0x7fbdc6350710> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63506a0> -> <plotBST.TreeNode object at 0x7fbdc6350710>
+	<plotBST.TreeNode object at 0x7fbdc63506d8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350710> -> <plotBST.TreeNode object at 0x7fbdc63506d8>
+	<plotBST.TreeNode object at 0x7fbdc6469ac8> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441978> -> <plotBST.TreeNode object at 0x7fbdc6469ac8>
+	<plotBST.TreeNode object at 0x7fbdc64691d0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469ac8> -> <plotBST.TreeNode object at 0x7fbdc64691d0>
+	<plotBST.TreeNode object at 0x7fbdc6456908> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64691d0> -> <plotBST.TreeNode object at 0x7fbdc6456908>
+	<plotBST.TreeNode object at 0x7fbdc6456be0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456908> -> <plotBST.TreeNode object at 0x7fbdc6456be0>
+	<plotBST.TreeNode object at 0x7fbdc6456c18> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456be0> -> <plotBST.TreeNode object at 0x7fbdc6456c18>
+	<plotBST.TreeNode object at 0x7fbdc6441320> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64691d0> -> <plotBST.TreeNode object at 0x7fbdc6441320>
+	<plotBST.TreeNode object at 0x7fbdc6366208> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441320> -> <plotBST.TreeNode object at 0x7fbdc6366208>
+	<plotBST.TreeNode object at 0x7fbdc6366240> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366208> -> <plotBST.TreeNode object at 0x7fbdc6366240>
+	<plotBST.TreeNode object at 0x7fbdc6350668> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469ac8> -> <plotBST.TreeNode object at 0x7fbdc6350668>
+	<plotBST.TreeNode object at 0x7fbdc635f048> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350668> -> <plotBST.TreeNode object at 0x7fbdc635f048>
+	<plotBST.TreeNode object at 0x7fbdc635f080> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f048> -> <plotBST.TreeNode object at 0x7fbdc635f080>
+	<plotBST.TreeNode object at 0x7fbdc635f0b8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f080> -> <plotBST.TreeNode object at 0x7fbdc635f0b8>
+	<plotBST.TreeNode object at 0x7fbdc6455c88> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350668> -> <plotBST.TreeNode object at 0x7fbdc6455c88>
+	<plotBST.TreeNode object at 0x7fbdc6455550> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6455c88> -> <plotBST.TreeNode object at 0x7fbdc6455550>
+	<plotBST.TreeNode object at 0x7fbdc635db38> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6455550> -> <plotBST.TreeNode object at 0x7fbdc635db38>
+	<plotBST.TreeNode object at 0x7fbdc635fa90> [label=15 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f320> -> <plotBST.TreeNode object at 0x7fbdc635fa90>
+	<plotBST.TreeNode object at 0x7fbdc635d898> [label=10 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635fa90> -> <plotBST.TreeNode object at 0x7fbdc635d898>
+	<plotBST.TreeNode object at 0x7fbdc635da58> [label=6 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d898> -> <plotBST.TreeNode object at 0x7fbdc635da58>
+	<plotBST.TreeNode object at 0x7fbdc635d588> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635da58> -> <plotBST.TreeNode object at 0x7fbdc635d588>
+	<plotBST.TreeNode object at 0x7fbdc6469208> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635d588> -> <plotBST.TreeNode object at 0x7fbdc6469208>
+	<plotBST.TreeNode object at 0x7fbdc6469588> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469208> -> <plotBST.TreeNode object at 0x7fbdc6469588>
+	<plotBST.TreeNode object at 0x7fbdc636b278> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469588> -> <plotBST.TreeNode object at 0x7fbdc636b278>
+	<plotBST.TreeNode object at 0x7fbdc6366ef0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635da58> -> <plotBST.TreeNode object at 0x7fbdc6366ef0>
+	<plotBST.TreeNode object at 0x7fbdc6456da0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366ef0> -> <plotBST.TreeNode object at 0x7fbdc6456da0>
+	<plotBST.TreeNode object at 0x7fbdc6456630> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456da0> -> <plotBST.TreeNode object at 0x7fbdc6456630>
+	<plotBST.TreeNode object at 0x7fbdc6366048> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456630> -> <plotBST.TreeNode object at 0x7fbdc6366048>
+	<plotBST.TreeNode object at 0x7fbdc63669e8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366ef0> -> <plotBST.TreeNode object at 0x7fbdc63669e8>
+	<plotBST.TreeNode object at 0x7fbdc64578d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63669e8> -> <plotBST.TreeNode object at 0x7fbdc64578d0>
+	<plotBST.TreeNode object at 0x7fbdc6457908> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64578d0> -> <plotBST.TreeNode object at 0x7fbdc6457908>
+	<plotBST.TreeNode object at 0x7fbdc6350208> [label=4 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635d898> -> <plotBST.TreeNode object at 0x7fbdc6350208>
+	<plotBST.TreeNode object at 0x7fbdc6457e80> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350208> -> <plotBST.TreeNode object at 0x7fbdc6457e80>
+	<plotBST.TreeNode object at 0x7fbdc6350b70> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6457e80> -> <plotBST.TreeNode object at 0x7fbdc6350b70>
+	<plotBST.TreeNode object at 0x7fbdc6350ba8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350b70> -> <plotBST.TreeNode object at 0x7fbdc6350ba8>
+	<plotBST.TreeNode object at 0x7fbdc63509b0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350ba8> -> <plotBST.TreeNode object at 0x7fbdc63509b0>
+	<plotBST.TreeNode object at 0x7fbdc6350f60> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350ba8> -> <plotBST.TreeNode object at 0x7fbdc6350f60>
+	<plotBST.TreeNode object at 0x7fbdc635fd30> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457e80> -> <plotBST.TreeNode object at 0x7fbdc635fd30>
+	<plotBST.TreeNode object at 0x7fbdc635fd68> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635fd30> -> <plotBST.TreeNode object at 0x7fbdc635fd68>
+	<plotBST.TreeNode object at 0x7fbdc635fda0> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635fd68> -> <plotBST.TreeNode object at 0x7fbdc635fda0>
+	<plotBST.TreeNode object at 0x7fbdc636b8d0> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635fa90> -> <plotBST.TreeNode object at 0x7fbdc636b8d0>
+	<plotBST.TreeNode object at 0x7fbdc6350a90> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636b8d0> -> <plotBST.TreeNode object at 0x7fbdc6350a90>
+	<plotBST.TreeNode object at 0x7fbdc64419e8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350a90> -> <plotBST.TreeNode object at 0x7fbdc64419e8>
+	<plotBST.TreeNode object at 0x7fbdc6467b00> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64419e8> -> <plotBST.TreeNode object at 0x7fbdc6467b00>
+	<plotBST.TreeNode object at 0x7fbdc6467b38> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467b00> -> <plotBST.TreeNode object at 0x7fbdc6467b38>
+	<plotBST.TreeNode object at 0x7fbdc6467b70> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6467b38> -> <plotBST.TreeNode object at 0x7fbdc6467b70>
+	<plotBST.TreeNode object at 0x7fbdc6456e48> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64419e8> -> <plotBST.TreeNode object at 0x7fbdc6456e48>
+	<plotBST.TreeNode object at 0x7fbdc6456e80> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6456e48> -> <plotBST.TreeNode object at 0x7fbdc6456e80>
+	<plotBST.TreeNode object at 0x7fbdc64696a0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456e80> -> <plotBST.TreeNode object at 0x7fbdc64696a0>
+	<plotBST.TreeNode object at 0x7fbdc6456a90> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350a90> -> <plotBST.TreeNode object at 0x7fbdc6456a90>
+	<plotBST.TreeNode object at 0x7fbdc6456ac8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456a90> -> <plotBST.TreeNode object at 0x7fbdc6456ac8>
+	<plotBST.TreeNode object at 0x7fbdc6456b00> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456ac8> -> <plotBST.TreeNode object at 0x7fbdc6456b00>
+	<plotBST.TreeNode object at 0x7fbdc635d128> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6456b00> -> <plotBST.TreeNode object at 0x7fbdc635d128>
+	<plotBST.TreeNode object at 0x7fbdc6362f28> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b8d0> -> <plotBST.TreeNode object at 0x7fbdc6362f28>
+	<plotBST.TreeNode object at 0x7fbdc636f240> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362f28> -> <plotBST.TreeNode object at 0x7fbdc636f240>
+	<plotBST.TreeNode object at 0x7fbdc645e278> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636f240> -> <plotBST.TreeNode object at 0x7fbdc645e278>
+	<plotBST.TreeNode object at 0x7fbdc645e240> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e278> -> <plotBST.TreeNode object at 0x7fbdc645e240>
+	<plotBST.TreeNode object at 0x7fbdc6372588> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e240> -> <plotBST.TreeNode object at 0x7fbdc6372588>
+	<plotBST.TreeNode object at 0x7fbdc6441a20> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362f28> -> <plotBST.TreeNode object at 0x7fbdc6441a20>
+	<plotBST.TreeNode object at 0x7fbdc635f278> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6441a20> -> <plotBST.TreeNode object at 0x7fbdc635f278>
+	<plotBST.TreeNode object at 0x7fbdc635f470> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f278> -> <plotBST.TreeNode object at 0x7fbdc635f470>
+	<plotBST.TreeNode object at 0x7fbdc636bef0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f470> -> <plotBST.TreeNode object at 0x7fbdc636bef0>
+	<plotBST.TreeNode object at 0x7fbdc6350128> [label=20 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f860> -> <plotBST.TreeNode object at 0x7fbdc6350128>
+	<plotBST.TreeNode object at 0x7fbdc63507f0> [label=10 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6350128> -> <plotBST.TreeNode object at 0x7fbdc63507f0>
+	<plotBST.TreeNode object at 0x7fbdc6347780> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63507f0> -> <plotBST.TreeNode object at 0x7fbdc6347780>
+	<plotBST.TreeNode object at 0x7fbdc6441898> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347780> -> <plotBST.TreeNode object at 0x7fbdc6441898>
+	<plotBST.TreeNode object at 0x7fbdc6347898> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6441898> -> <plotBST.TreeNode object at 0x7fbdc6347898>
+	<plotBST.TreeNode object at 0x7fbdc63694e0> [label=3 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347898> -> <plotBST.TreeNode object at 0x7fbdc63694e0>
+	<plotBST.TreeNode object at 0x7fbdc6369470> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63694e0> -> <plotBST.TreeNode object at 0x7fbdc6369470>
+	<plotBST.TreeNode object at 0x7fbdc63694a8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369470> -> <plotBST.TreeNode object at 0x7fbdc63694a8>
+	<plotBST.TreeNode object at 0x7fbdc6350d68> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63694e0> -> <plotBST.TreeNode object at 0x7fbdc6350d68>
+	<plotBST.TreeNode object at 0x7fbdc6350f98> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350d68> -> <plotBST.TreeNode object at 0x7fbdc6350f98>
+	<plotBST.TreeNode object at 0x7fbdc6469400> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63507f0> -> <plotBST.TreeNode object at 0x7fbdc6469400>
+	<plotBST.TreeNode object at 0x7fbdc635ddd8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469400> -> <plotBST.TreeNode object at 0x7fbdc635ddd8>
+	<plotBST.TreeNode object at 0x7fbdc63621d0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635ddd8> -> <plotBST.TreeNode object at 0x7fbdc63621d0>
+	<plotBST.TreeNode object at 0x7fbdc635f358> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63621d0> -> <plotBST.TreeNode object at 0x7fbdc635f358>
+	<plotBST.TreeNode object at 0x7fbdc636b9e8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f358> -> <plotBST.TreeNode object at 0x7fbdc636b9e8>
+	<plotBST.TreeNode object at 0x7fbdc636ba20> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636b9e8> -> <plotBST.TreeNode object at 0x7fbdc636ba20>
+	<plotBST.TreeNode object at 0x7fbdc6469438> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469400> -> <plotBST.TreeNode object at 0x7fbdc6469438>
+	<plotBST.TreeNode object at 0x7fbdc6469470> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469438> -> <plotBST.TreeNode object at 0x7fbdc6469470>
+	<plotBST.TreeNode object at 0x7fbdc636f128> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469470> -> <plotBST.TreeNode object at 0x7fbdc636f128>
+	<plotBST.TreeNode object at 0x7fbdc63722e8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc636f128> -> <plotBST.TreeNode object at 0x7fbdc63722e8>
+	<plotBST.TreeNode object at 0x7fbdc6372320> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63722e8> -> <plotBST.TreeNode object at 0x7fbdc6372320>
+	<plotBST.TreeNode object at 0x7fbdcee6a4a8> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6469438> -> <plotBST.TreeNode object at 0x7fbdcee6a4a8>
+	<plotBST.TreeNode object at 0x7fbdcee6ac88> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdcee6a4a8> -> <plotBST.TreeNode object at 0x7fbdcee6ac88>
+	<plotBST.TreeNode object at 0x7fbdc63624e0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdcee6ac88> -> <plotBST.TreeNode object at 0x7fbdc63624e0>
+	<plotBST.TreeNode object at 0x7fbdc6362518> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63624e0> -> <plotBST.TreeNode object at 0x7fbdc6362518>
+	<plotBST.TreeNode object at 0x7fbdc6347cf8> [label=9 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6350128> -> <plotBST.TreeNode object at 0x7fbdc6347cf8>
+	<plotBST.TreeNode object at 0x7fbdc635f8d0> [label=4 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347cf8> -> <plotBST.TreeNode object at 0x7fbdc635f8d0>
+	<plotBST.TreeNode object at 0x7fbdc6362d30> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f8d0> -> <plotBST.TreeNode object at 0x7fbdc6362d30>
+	<plotBST.TreeNode object at 0x7fbdc63665c0> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6362d30> -> <plotBST.TreeNode object at 0x7fbdc63665c0>
+	<plotBST.TreeNode object at 0x7fbdc63665f8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63665c0> -> <plotBST.TreeNode object at 0x7fbdc63665f8>
+	<plotBST.TreeNode object at 0x7fbdc6366630> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63665f8> -> <plotBST.TreeNode object at 0x7fbdc6366630>
+	<plotBST.TreeNode object at 0x7fbdc636f588> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366630> -> <plotBST.TreeNode object at 0x7fbdc636f588>
+	<plotBST.TreeNode object at 0x7fbdc6457da0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362d30> -> <plotBST.TreeNode object at 0x7fbdc6457da0>
+	<plotBST.TreeNode object at 0x7fbdc6457978> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457da0> -> <plotBST.TreeNode object at 0x7fbdc6457978>
+	<plotBST.TreeNode object at 0x7fbdc636fa58> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6457978> -> <plotBST.TreeNode object at 0x7fbdc636fa58>
+	<plotBST.TreeNode object at 0x7fbdc636fa90> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc636fa58> -> <plotBST.TreeNode object at 0x7fbdc636fa90>
+	<plotBST.TreeNode object at 0x7fbdc64568d0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc635f8d0> -> <plotBST.TreeNode object at 0x7fbdc64568d0>
+	<plotBST.TreeNode object at 0x7fbdc6469e10> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc64568d0> -> <plotBST.TreeNode object at 0x7fbdc6469e10>
+	<plotBST.TreeNode object at 0x7fbdc6469e48> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469e10> -> <plotBST.TreeNode object at 0x7fbdc6469e48>
+	<plotBST.TreeNode object at 0x7fbdc6347b70> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469e48> -> <plotBST.TreeNode object at 0x7fbdc6347b70>
+	<plotBST.TreeNode object at 0x7fbdc6347ba8> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347b70> -> <plotBST.TreeNode object at 0x7fbdc6347ba8>
+	<plotBST.TreeNode object at 0x7fbdc645e320> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc64568d0> -> <plotBST.TreeNode object at 0x7fbdc645e320>
+	<plotBST.TreeNode object at 0x7fbdc6366278> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc645e320> -> <plotBST.TreeNode object at 0x7fbdc6366278>
+	<plotBST.TreeNode object at 0x7fbdc63662b0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366278> -> <plotBST.TreeNode object at 0x7fbdc63662b0>
+	<plotBST.TreeNode object at 0x7fbdc63662e8> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc63662b0> -> <plotBST.TreeNode object at 0x7fbdc63662e8>
+	<plotBST.TreeNode object at 0x7fbdc6347d30> [label=5 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347cf8> -> <plotBST.TreeNode object at 0x7fbdc6347d30>
+	<plotBST.TreeNode object at 0x7fbdc6366ac8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6347d30> -> <plotBST.TreeNode object at 0x7fbdc6366ac8>
+	<plotBST.TreeNode object at 0x7fbdc6469a90> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366ac8> -> <plotBST.TreeNode object at 0x7fbdc6469a90>
+	<plotBST.TreeNode object at 0x7fbdc6366518> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6469a90> -> <plotBST.TreeNode object at 0x7fbdc6366518>
+	<plotBST.TreeNode object at 0x7fbdc6366828> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366518> -> <plotBST.TreeNode object at 0x7fbdc6366828>
+	<plotBST.TreeNode object at 0x7fbdc6366860> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6366828> -> <plotBST.TreeNode object at 0x7fbdc6366860>
+	<plotBST.TreeNode object at 0x7fbdc6369748> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6366ac8> -> <plotBST.TreeNode object at 0x7fbdc6369748>
+	<plotBST.TreeNode object at 0x7fbdc63721d0> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6369748> -> <plotBST.TreeNode object at 0x7fbdc63721d0>
+	<plotBST.TreeNode object at 0x7fbdc6372208> [label=1 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63721d0> -> <plotBST.TreeNode object at 0x7fbdc6372208>
+	<plotBST.TreeNode object at 0x7fbdc6372240> [label=1 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6372208> -> <plotBST.TreeNode object at 0x7fbdc6372240>
+	<plotBST.TreeNode object at 0x7fbdc63479b0> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6347d30> -> <plotBST.TreeNode object at 0x7fbdc63479b0>
+	<plotBST.TreeNode object at 0x7fbdc6362dd8> [label=3 color=green]
+	<plotBST.TreeNode object at 0x7fbdc63479b0> -> <plotBST.TreeNode object at 0x7fbdc6362dd8>
+	<plotBST.TreeNode object at 0x7fbdc6369da0> [label=2 color=green]
+	<plotBST.TreeNode object at 0x7fbdc6362dd8> -> <plotBST.TreeNode object at 0x7fbdc6369da0>
+	<plotBST.TreeNode object at 0x7fbdc635f6d8> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc6369da0> -> <plotBST.TreeNode object at 0x7fbdc635f6d8>
+	<plotBST.TreeNode object at 0x7fbdc636b780> [label=2 color=red]
+	<plotBST.TreeNode object at 0x7fbdc635f6d8> -> <plotBST.TreeNode object at 0x7fbdc636b780>
+}
