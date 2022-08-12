@@ -1,4 +1,0 @@
-Bert: 51.98
-Bert_Random: 64.51
-GPT2: 51.90
-GPT2_Random: 64.86 
